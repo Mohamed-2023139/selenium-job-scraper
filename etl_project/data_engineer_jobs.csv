@@ -1,0 +1,1484 @@
+﻿Job Title,Company Name,Job Location,Required Experience,Full Job Description
+"Data Engineer
+Dicetek LLC",Dicetek LLC,N/A,N/A,"Job Description
+Roles & Responsibilities
+We are looking for an experienced Data Engineer with strong expertise in building scalable ETL/ELT pipelines, data integration frameworks, and cloud-based data solutions. The candidate will be responsible for developing reliable data platforms to support enterprise analytics, AI, and reporting requirements.
+Key Responsibilities
+Design, develop, and maintain scalable ETL/ELT data pipelines.
+Build data integration and transformation solutions using cloud technologies.
+Develop data models, data warehouses, and real-time data processing solutions.
+Implement data quality, validation, security, and performance optimisation practices.
+Support AI/ML and analytics workloads and collaborate with Data Scientists and business teams.
+Implement CI/CD and MLOps practices for automated and reliable data deployments."
+"DATA ENGINEER – (DX)
+STAR SERVICES LLC",STAR SERVICES LLC,Dubai - United Arab Emirates (UAE),5 - 8 Years,"Job Description
+Roles & Responsibilities
+Assist the Group Head in conducting digital transformation need analysis to address evolving business and operational requirements.
+Develop and deliver data engineering solutions that directly support the organization’s Digital Transformation (DX) strategy and objectives.
+Design, build, and maintain scalable and reliable data pipelines handling large data volumes from plant operations and enterprise systems.
+Implement and continuously optimize ETL processes to ensure high standards of data quality, integrity, and consistency across platforms.
+Support the establishment of a structured enterprise data foundation by defining appropriate tools, technologies, and data management processes.
+Integrate and manage data across multiple digital systems to remove data silos and enable analytics, reporting, and informed decision‑making.
+Manage and support data warehouses and data lakes to facilitate business intelligence, reporting, and advanced analytics initiatives.
+Translate business and operational requirements into scalable technical specifications for data infrastructure and digital solutions.
+Establish data governance standards to manage data access, security, quality, and regulatory compliance across enterprise data platforms.
+Collaborate closely with IT teams and business stakeholders to deliver technical data solutions aligned with cross‑functional application needs.
+Support DX project execution by preparing technical specifications and defining data requirements for vendor evaluation and selection.
+Lead continuous improvement initiatives to strengthen IT and digital transformation capabilities using industry best practices and standards.
+Promote a data‑driven and digital‑first culture by supporting change initiatives and enabling reliable access to enterprise data assets."
+"Data Engineer
+Trigyn Technologies ltd",Trigyn Technologies ltd,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+
+Job Description:
+The Data Engineer will perform the following tasks:
+Design, build, and maintain ETL/ELT pipelines.
+Automate data ingestion from various sources (databases, APIs, streaming services).
+Implement data validation and quality checks.
+Use platforms like Azure for cloud-based data solutions.
+Work with Data Scientists and Full stack Web Developers to provide clean, reliable data.
+Create and maintain comprehensive technical documentation, including user manuals, training materials, and product specifications, also developing functional specifications.
+Provide ongoing support for deployed pipelines including version control, data recovery processes, and deployment strategies.
+Research emerging technologies and industry trends, staying up to date with developments in the field, and actively assisting in testing and evaluating new products, tools, and technologies.
+
+The Data Engineer is expected to fulfil the following deliverables:
+Completed project plan at project inception.
+Technical documentation and user manuals for assigned tasks, including dataflow and entity relationship diagrams.
+Progress reports with time sheets reflecting task fulfilment and project progress.
+Final source code, design assets, documentation and all related components to pipelines and applications are being developed.
+Other related deliverables as needed.
+
+Qualifications
+A minimum high school diploma with a certification or degree in Information Systems, Information Technology, Computer Science, Statistics or related area is required.
+A minimum of 5+ years of professional experience with Python, SQL, cloud environments container orchestration (Kubernetes), and DevOps automation is required."
+"Applied AI & Data Engineer
+Morgan's Holding Global LLC",Morgan's Holding Global LLC,Abu Dhabi - United Arab Emirates (UAE),3 - 6 Years,"Job Description
+Roles & Responsibilities
+
+What You’ll Do
+Build AI assistants using tool calling to work with real product, search, and order systems
+Design guardrails and evaluation sets to ensure AI responses are accurate and safe
+Build real-time and voice-enabled AI experiences
+Improve product data quality through AI-assisted enrichment and review workflows
+Build data pipelines, analytics, and personalisation systems
+Work closely with web and mobile developers and help guide technical implementation"
+"FinTech Data Engineer
+Acesoft Labs (India) Pvt Ltd",Acesoft Labs (India) Pvt Ltd,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+FinTech Data Engineer
+Experience: 4–8 years
+Job Summary:
+Build scalable data pipelines and platforms for financial transaction, customer and risk data.
+Key Responsibilities:
+Develop batch and real-time data pipelines.
+Process large financial datasets.
+Build ETL/ELT workflows.
+Integrate structured and unstructured data.
+Optimize data processing and storage.
+Ensure data quality and governance."
+"Data Engineer
+Acesoft Labs (India) Pvt Ltd",Acesoft Labs (India) Pvt Ltd,Abu Dhabi - United Arab Emirates (UAE),5 - 8 Years,"Job Description
+Roles & Responsibilities
+Job Description – Data Engineer (PySpark / Databricks)
+Position
+Data Engineer – PySpark / Databricks
+Experience
+4–8 Years
+Location
+UAE – Dubai / Abu Dhabi
+Employment Type
+Full-Time / Contract
+Work Mode
+Onsite / Hybrid – As per client requirement
+Role Overview
+We are looking for an experienced Data Engineer with strong expertise in PySpark, Python, SQL, Databricks, and cloud data platforms to design, develop, and maintain scalable data pipelines and data processing solutions.
+The ideal candidate should have hands-on experience working with large datasets, developing ETL/ELT pipelines, implementing data transformations, optimizing Spark workloads, and building cloud-based data platforms.
+Key Responsibilities
+Design, develop, and maintain scalable data pipelines and ETL/ELT workflows.
+Develop high-performance data processing solutions using PySpark and Apache Spark.
+Build data pipelines to ingest data from databases, APIs, files, applications, and other sources.
+Perform data cleansing, transformation, aggregation, and validation.
+Develop and optimize Spark SQL and PySpark jobs.
+Work with structured, semi-structured, and unstructured data.
+Implement data pipelines using Databricks and cloud-based data platforms.
+Optimize Spark jobs for performance, scalability, memory utilization, and processing time.
+Implement data quality, validation, monitoring, and error-handling mechanisms.
+Work with data lakes, lakehouses, and data warehouse environments.
+Develop reusable and scalable data engineering frameworks.
+Collaborate with Data Architects, Data Scientists, Business Analysts, and application teams.
+Troubleshoot production data pipeline issues and perform root-cause analysis.
+Participate in code reviews, testing, deployment, and production support.
+Maintain technical documentation for data pipelines and data architecture.
+Mandatory Skills
+4–8 years of experience in Data Engineering.
+Strong hands-on experience with PySpark and Apache Spark.
+Strong programming experience in Python.
+Strong proficiency in SQL.
+Experience developing ETL/ELT pipelines.
+Hands-on experience with Databricks.
+Strong understanding of Spark architecture, DataFrames, Spark SQL, transformations, and actions.
+Experience working with large-volume datasets.
+Good understanding of data warehousing and data lake concepts.
+Experience with relational and NoSQL databases.
+Knowledge of data pipeline performance tuning and optimization.
+Experience working with at least one major cloud platform – Azure, AWS, or GCP.
+Cloud & Data Technologies
+Candidates with experience in one or more of the following will be preferred:
+Azure
+Azure Data Factory
+Azure Databricks
+Azure Data Lake Storage
+Azure Synapse
+Microsoft Fabric
+AWS
+AWS Glue
+Amazon EMR
+Amazon S3
+Redshift
+Kinesis
+GCP
+BigQuery
+Dataflow
+Dataproc
+Cloud Storage
+Good-to-Have Skills
+Delta Lake / Lakehouse architecture
+Apache Kafka
+Apache Airflow
+Snowflake
+dbt
+Hadoop / Hive
+Data modelling
+Data governance and data quality
+Docker and Kubernetes
+CI/CD
+Git / GitHub / GitLab
+Terraform
+Experience with real-time / streaming data pipelines
+Exposure to Generative AI / ML data pipelines
+Preferred Technology Stack
+Programming: Python, SQL
+Big Data: Apache Spark, PySpark, Kafka
+Data Platform: Databricks, Delta Lake, Snowflake
+Cloud: Azure / AWS / GCP
+Orchestration: Airflow / Azure Data Factory
+DevOps: Git, CI/CD, Docker, Kubernetes
+Candidate Profile
+The ideal candidate should:
+Have strong analytical and problem-solving skills.
+Be experienced in designing scalable data solutions.
+Have strong debugging and troubleshooting capabilities.
+Understand data architecture and data lifecycle concepts.
+Be comfortable working with large and complex datasets.
+Have good communication and stakeholder-management skills.
+Be able to work independently as well as collaboratively in a multicultural environment.
+Have experience working in enterprise or large-scale data environments.
+Education
+Bachelor's or Master's degree in Computer Science, Information Technology, Engineering, Data Science, or a related discipline."
+"Data Engineer
+Dicetek LLC",Dicetek LLC,N/A,N/A,"Job Description
+Roles & Responsibilities
+We are looking for an experienced Data Engineer with strong expertise in building scalable ETL/ELT pipelines, data integration frameworks, and cloud-based data solutions. The candidate will be responsible for developing reliable data platforms to support enterprise analytics, AI, and reporting requirements.
+Key Responsibilities
+Design, develop, and maintain scalable ETL/ELT data pipelines.
+Build data integration and transformation solutions using cloud technologies.
+Develop data models, data warehouses, and real-time data processing solutions.
+Implement data quality, validation, security, and performance optimisation practices.
+Support AI/ML and analytics workloads and collaborate with Data Scientists and business teams.
+Implement CI/CD and MLOps practices for automated and reliable data deployments."
+"Data Engineer
+Confidential Company",N/A,Dubai - United Arab Emirates (UAE),5 - 8 Years,"Job Description
+Roles & Responsibilities
+Design, develop, and maintain data ingestion, transformation, and orchestration pipelines using Microsoft Fabric and Azure Data Factory (ADF).
+Build and manage ETL/ELT processes for structured and unstructured data sources.
+Develop and optimize data models, data lakes, and data warehouses within the Azure ecosystem.
+Integrate data from multiple on-premises and cloud-based systems.
+Monitor, troubleshoot, and optimize data pipelines to ensure reliability and performance.
+Implement data quality, governance, and security best practices.
+Collaborate with business analysts, data scientists, and stakeholders to understand data requirements.
+Develop and maintain technical documentation, data dictionaries, and operational procedures.
+Support reporting and analytics platforms such as Power BI.
+Participate in data platform modernization and cloud migration initiatives.implementing improvements."
+"Senior Consultant - Data Engineering
+MAIR GROUP - P.J.S.C",MAIR GROUP - P.J.S.C,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+
+
+Design and implement scalable data platforms on Snowflake for retail analytics 
+Build and optimize ELT pipelines for retail data (POS, e-commerce, CRM, inventory, supply chain) 
+Leverage Snowflake Cortex to enable AI-driven use cases such as: Customer segmentation & personalization, Product recommendations, promo analysis 
+Integrate data from multiple retail systems (ERP, OMS, WMS, e-commerce platforms) 
+Develop data models for key retail metrics (sales, margins, inventory turnover, basket analysis) 
+Ensure data quality, governance, and compliance across datasets 
+Optimize Snowflake performance and cost for large-scale retail workloads 
+Collaborate with business stakeholders (merchandising, marketing, supply chain teams) 
+Enable near real-time analytics for inventory and order tracking"
+"Senior Data Engineer (Arabic Speaker)
+Dicetek LLC",Dicetek LLC,N/A,N/A,"Job Description
+Roles & Responsibilities
+Design, build, and maintain scalable and robust data pipelines, ensuring seamless data flow from source systems to analytical platforms.
+Develop and optimize complex ETL/ELT processes, transforming raw data into structured, analysis-ready datasets for business intelligence and machine learning initiatives.
+Architect and implement data warehousing solutions, employing best practices for data modeling, schema design, and performance tuning.
+Integrate diverse data sources, including relational databases, NoSQL stores, APIs, and streaming platforms, ensuring data quality and consistency."
+"Data Engineer
+Al Gurg Group",Al Gurg Group,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+
+Role Purpose :
+
+The Data Engineer prepares the Group’s enterprise data and knowledge sources so that AI, Generative AI, and Agentic AI solutions operate on information that is accurate, current, governed, and fit for purpose.
+Spanning structured data in core business systems and unstructured content across documents, policies, and correspondence, the role builds and maintains the pipelines and knowledge repositories that underpin retrieval-augmented AI. It is the control point that ensures agents draw only on trusted, approved sources — making this role the single greatest determinant of whether the Group’s AI outputs can be relied upon in business decisions
+▶ Data Preparation for AI Use Cases
+– Prepare enterprise data and knowledge sources for AI use cases, working from prioritised business requirements defined with the AI / Agentic AI Lead.
+– Support data extraction, cleansing, classification, tagging, and indexing across structured, semi-structured, and unstructured sources.
+– Build and maintain ingestion pipelines from ERP, CRM, HRMS, procurement systems, the data lake, and document repositories.
+– Design chunking, metadata, and enrichment strategies that materially improve retrieval relevance and answer quality.
+– Handle multi-format content — PDF, Office documents, scanned material, and email — including OCR and text extraction where required.
+▶ Knowledge Repositories & RAG Enablement
+– Build and maintain knowledge repositories for RAG-based AI solutions, including embedding generation, vector store management, and index refresh cycles.
+– Implement versioning and change detection so that repositories remain synchronised with authoritative source systems.
+– Define and apply access controls at the data layer so that retrieval respects existing entitlement and confidentiality boundaries.
+– Measure and tune retrieval performance, working with AI engineers to diagnose grounding failures and improve recall and precision.
+▶ Data Quality & Master Data Readiness
+– Work with functional and technical teams to improve data quality and master data readiness across customer, vendor, product, employee, and asset domains.
+– Profile source data to quantify completeness, consistency, duplication, and timeliness, and report readiness objectively to initiative sponsors.
+– Implement automated data quality rules, validation checks, and exception reporting within pipelines.
+– Support remediation of root-cause data issues with business data owners rather than correcting symptoms downstream.
+▶ Governance, Trust & Security
+– Ensure AI agents use trusted, approved, and governed data sources, and that unapproved or unclassified content is excluded from AI consumption.
+– Apply data classification, retention, and privacy requirements in line with Group policy and UAE data protection regulation.
+– Maintain lineage and cataloguing so that any AI output can be traced back to its underlying source with confidence.
+– Collaborate with Cybersecurity and Compliance on access reviews, data residency, encryption, and audit evidence.
+▶ Platform Operations & Collaboration
+
+– Operate and optimize cloud data platforms and pipelines for reliability, performance, and cost efficiency. – Monitor pipeline health, resolve failures, and maintain documentation, runbooks, and operational handover materials. – Partner with AI engineers, application teams, and business analysts throughout the delivery cycle, from discovery to production support. – Contribute to Group data standards, reusable pipeline patterns, and shared engineering practice."
+"Data Engineer/Test
+Confidential Company",N/A,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+Design, build, and maintain scalable and robust data pipelines for efficient data ingestion, transformation, and loading.
+Develop and implement automated testing frameworks for data quality, data integrity, and pipeline performance.
+Collaborate with data scientists and analysts to understand data requirements and translate them into technical solutions.
+Optimize data warehouse and data lake performance, ensuring efficient query execution and data accessibility."
+"Snowflake Data Engineer
+Applycup Solutions (Client Confidential)",Applycup Solutions (Client Confidential),Abu Dhabi - United Arab Emirates (UAE),5 - 10 Years,"Job Description
+Roles & Responsibilities
+
+Design, develop, and maintain scalable data pipelines using Snowflake.
+Build and optimize ELT workflows using dbt.
+Develop and orchestrate data pipelines using Apache Airflow.
+Design and implement efficient data models to support analytical and business reporting
+requirements.
+Perform data ingestion from multiple structured and semi-structured data sources.
+Optimize Snowflake performance through query tuning, clustering, partitioning, and warehouse
+optimization.
+Develop reusable, scalable, and maintainable SQL transformations.
+Implement data quality checks, validation, and monitoring processes.
+Collaborate with Data Architects, Business Analysts, BI Developers, and cross-functional teams to
+deliver robust data solutions.
+Troubleshoot production issues and ensure high availability of data pipelines.
+Follow best practices for version control, CI/CD, testing, and documentation."
+"Snowflake Data Engineer
+Applycup Solutions (Client Confidential)",Applycup Solutions (Client Confidential),Dubai - United Arab Emirates (UAE),8 - 15 Years,"Job Description
+Roles & Responsibilities
+
+Design, develop, and maintain scalable data pipelines using Snowflake.
+Build and optimize ELT workflows using dbt.
+Develop and orchestrate data pipelines using Apache Airflow.
+Design and implement efficient data models to support analytical and business reporting
+requirements.
+Perform data ingestion from multiple structured and semi-structured data sources.
+Optimize Snowflake performance through query tuning, clustering, partitioning, and warehouse
+optimization.
+Develop reusable, scalable, and maintainable SQL transformations.
+Implement data quality checks, validation, and monitoring processes.
+Collaborate with Data Architects, Business Analysts, BI Developers, and cross-functional teams to
+deliver robust data solutions.
+Troubleshoot production issues and ensure high availability of data pipelines.
+Follow best practices for version control, CI/CD, testing, and documentation."
+"Senior Data Engineer
+Capco",N/A,Dubai - United Arab Emirates,5 - 10 Years,"Job Description
+Roles & Responsibilities
+Build robust, enterprise-scale data solutions at the heart of a major financial services transformation.
+The Role We are looking for an experienced Snowflake Data Engineer to provide specialist data engineering services for a leading financial institution in the Middle East. You will be responsible for delivering robust, supportable data pipelines and curated datasets aligned with unified data platform standards. The engagement covers the full data lifecycle, from ingestion and transformation through to data quality, monitoring, documentation and operational handover. The engagement is expected to run for one year and requires relocation to the Middle East for its duration . You will collaborate with client and project teams to deliver the agreed data engineering scope and project outcomes.
+What You ll Do Design, configure and implement Snowflake data engineering components, including Tasks, Streams, Snowpipe Streaming, dbt Projects and Iceberg tables. Deliver source-to-target mappings and reliable ingestion pipelines from agreed source systems into the unified data platform. Develop curated data models for analytical use cases, incorporating data quality checks, reconciliation logic and monitoring. Create and maintain technical documentation and runbooks covering data lineage, dependencies, operational procedures and ongoing support. Coordinate activities with governance and architecture counterparts on ownership, classification, access controls and metadata, while supporting deployment, stabilization, performance tuning and knowledge transfer.
+Bonus Points For Experience providing services across enterprise-scale unified data platforms and complex source-system landscapes. Familiarity with data governance principles, including data ownership, classification, metadata, lineage and access controls. Experience supporting production deployment, stabilization and performance-tuning activities. Experience collaborating with architecture, governance and cross-functional engineering teams on large transformation programmes.
+ONLINE RECRUITMENT PROCESS STEPS Screening call with the Recruiter Hiring Manager Technical Interview Client Interview Feedback/Offer We offer a flexible collaboration model based on a B2B contract, with the opportunity to work on diverse projects. #LI-ONSITE"
+"Senior Data Engineer
+Devsinc",N/A,Abu Dhabi - United Arab Emirates,5 - 10 Years,"Job Description
+Roles & Responsibilities
+Responsibilities
+Design, develop, and maintain scalable ETL/ELT pipelines for data ingestion, transformation, validation, and delivery.
+Build, schedule, and orchestrate production-grade data workflows using Apache Airflow .
+Develop distributed data-processing jobs using Apache Spark .
+Write efficient, reusable, and maintainable Python code for data processing, automation, and pipeline development.
+Develop and optimize complex SQL queries for data transformation, analysis, and quality validation.
+Design pipelines capable of processing large-scale structured, semi-structured, and unstructured datasets.
+Implement Redis for caching, high-performance data access, and data-intensive application requirements.
+Integrate data from APIs, relational databases, files, third-party providers, and other internal and external sources.
+Implement data validation, monitoring, logging, error handling, alerting, and pipeline observability.
+Optimize pipeline performance, data storage, processing time, and infrastructure costs.
+Develop reusable data-ingestion and transformation frameworks instead of one-off scripts.
+Troubleshoot pipeline failures, performance bottlenecks, and data-quality issues to ensure timely resolution.
+Collaborate with BI, Product, Data Science, and Engineering teams to deliver reliable, production-ready datasets.
+Establish and maintain data-engineering standards, technical documentation, and development best practices.
+Preferred Qualification
+Experience with cloud data platforms and object storage services such as AWS, Azure, or GCP .
+Experience working with PostgreSQL , data warehouses, or analytical databases.
+Experience processing geospatial data or large-scale location-based datasets.
+Familiarity with DuckDB, Apache Sedona, Trino, Presto , or similar analytical technologies.
+Experience processing high-volume event, mobility, transactional, or geospatial data.
+Familiarity with CI/CD pipelines and infrastructure-as-code practices.
+Experience supporting data products, analytics platforms, or AI/ML pipelines ."
+"Data Engineer
+STMicroelectronics",N/A,Casablanca - Morocco,0 - 2 Years,"Job Description
+Roles & Responsibilities
+Data engineers collect, transform and store data using pipelines and storage systems. This involves extracting data from various data source systems, transforming it into the staging area, and loading it into database, data warehouse or data lake systems. The Data Engineer ensures quantitative and qualitative access to data sources. He/she ensures availability of data and guarantees the quality of its use in-order-to facilitate its exploitation by Data analysts and Data scientists. His/her scope of intervention is focused on application systems around data management and processing and on Big Data, IoT platforms."
+"Data Engineering Manager
+Client of Salt",N/A,Abu Dhabi - United Arab Emirates (UAE),5 - 10 Years,"Job Description
+Roles & Responsibilities
+You will build and lead the team that turns DZ s data into something the business can actually run on. DZ operates across several verticals and markets: digital goods, ticketing, travel and trading, in Iraq, the UAE and KSA. Each has grown its own reporting, its own metric definitions and its own version of the numbers, so basic questions take days and the answers do not always agree. You will hire the team, own the data platform end to end, from ingestion through warehouse and modelling to the analytics layer on top, and make trusted data a capability the rest of the org can rely on rather than a queue it waits behind. What you ll do: Build and lead the data team: Hire, mentor and grow data and analytics engineers, and set the bar for a function that every other team depends on daily. Own the technical strategy and architecture for the data platform: Ingestion from operational systems and third parties, warehouse and modelling layer, orchestration, and the semantic layer that keeps metrics consistent across verticals. Establish a single source of truth for core business metrics: With definitions agreed with commercial, finance and product, and pipelines that make the numbers reproducible and trusted. Deliver self-serve analytics: So most questions are answered without a ticket, and the team s time goes to platform work rather than ad hoc pulls. Treat data as a product and own its reliability: Freshness SLAs, lineage, testing, and alerting that fires when something breaks upstream rather than when a stakeholder notices. Partner with security and legal on governance: Access control, retention and the handling of PII (passport and telecom identifiers) across markets with different regulatory expectations. Build the foundation the next stage depends on: Event tracking standards, the data that data science, personalisation, fraud and experimentation will need. Partner with product and engineering teams: So instrumentation and data contracts are designed into services rather than bolted on afterwards."
+"AWS Data Engineer
+Client of Salt",N/A,Dubai - United Arab Emirates (UAE),5 - 8 Years,"Job Description
+Roles & Responsibilities
+Contract Length 6 Months (view to extend) Start Date ASAP The role will focus on building scalable AWS-based ingestion pipelines, optimizing performance, and ensuring alignment with architecture and data quality standards. Key Responsibilities: Build and maintain data ingestion pipelines using AWS Glue, PySpark, S3, Athena, and Lambda. Implement CDC, full load, delta, snapshot, and historical loading patterns. Develop and optimize Bronze-layer ingestion pipelines. Improve pipeline performance through partitioning, parallelization, and AWS best practices. Automate deployment and infrastructure using Git and Terraform. Ensure pipelines comply with data contracts, monitoring, and data quality standards. Work closely with Data Architects, Data Assurance, and Platform teams. Identify opportunities to automate repetitive migration and engineering activities."
+"Senior Data Engineer (Investment Data)
+Luxoft",Luxoft,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+Project description We re looking for an experienced, hands-on Data Engineer who is capable of designing, building, and operating data pipelines and models that power analytics and applications across investment teams and Middle/Back office. The ideal candidate has financial markets familiarity (securities, prices, corporate actions, positions/holdings) and thrives in ambiguous environments proactively shaping solutions, not waiting for tickets. You ll own data end-to-end: from ingesting vendor and internal sources, to modeling in our lakehouse, to making data discoverable, reliable, and cost-efficient. You ll partner closely with BAs/PMs and quants, anticipate downstream needs, and propose pragmatic architectures that balance speed, governance, and scalability.
+Responsibilities Participate in requirements clarification and sprint planning sessions. Design technical solutions and implement them, inc ETL Pipelines Build robust data pipelines in PySpark to extract, transform, using PySpark Optimize ETL Processes Enhance and tune existing ETL processes for better performance, scalability, and reliability Writing unit and integration tests. Support QA teammates in the acceptance process. Resolving PROD incidents as a 3rd line engineer.
+Skills Must have Bachelor s degree (Computer Science, Engineering, Information Systems, or related discipline). 5+ years experience in data engineering roles (flexible based on depth of capability). Strong hands-on experience with Databricks in production environments (prerequisite). Strong programming experience with PySpark (must) and strong SQL (must). Proven experience with Declarative Pipelines / pipeline orchestration on Databricks (prerequisite). Strong understanding of data engineering fundamentals: ingestion patterns, transformation design, incremental processing, testing, performance tuning. Experience delivering production-ready datasets with appropriate operational controls (monitoring, troubleshooting, reliability patterns). Experience with modern Lakehouse concepts (Delta tables, optimization strategies, file skipping, metadata/statistics awareness). Exposure to data governance practices: cataloguing, documentation, business glossary/terms, lineage. Experience working in enterprise environments with CI/CD pipelines and structured release processes. Familiarity with vendor market data feeds (e.g., Bloomberg, Refinitiv, MSCI, FactSet) or similar multi-source mastering patterns.
+Nice to have Strong Hands-on Expertise in Palantir Foundry. Proven experience with Foundry pipelines, ontologies, data lineage, transformations, and platform governance. Proven Migration Experience from Palantir / to Databricks. Demonstrated experience leading or executing platform migrations, including pipeline conversion, data model redesign, and production cutover. Familiarity with Dynatrace or Datadog for system observability and monitoring. Databricks certification, cloud certifications (Azure/AWS), or enterprise data architecture certifications.
+Other Languages English: C1 Advanced"
+"Senior Data Engineer - Systems Architecture, Design & Development
+Wynn Al Marjan Island",N/A,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+About the Position: Wynn Al Marjan Island is currently seeking a Senior Data Engineer to join the IT Systems Architecture, Design & Development team. The primary duties and responsibilities of this role are: Design, develop, and optimize ETL/ELT pipelines using SQL, Python, Snowflake, and Airflow Build scalable batch, incremental, real-time, and CDC-based data ingestion solutions Develop and maintain data warehouses and dimensional models for analytics and reporting Create and manage Airflow DAGs for workflow orchestration, scheduling, and monitoring Optimize Snowflake data models, query performance, and data loading processes Translate business requirements into scalable and reliable data engineering solutions Enhance data platform performance, reliability, scalability, and cost efficiency Produce technical documentation and support analytics teams with high-quality data assets"
+"Data Engineer Snowflake
+Capco",N/A,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+Shape the future of data platforms by delivering modern, cloud-native engineering solutions that enable leading financial institutions to unlock the full value of their data. The Role Capco is a global technology and business consultancy, focused on the financial services and energy sectors. We combine innovative thinking with deep industry expertise to help our clients solve complex business and technology challenges. We are looking for a Senior Consultant Data Engineer with strong Snowflake expertise to join our growing Data & Analytics practice in Doha. You will work closely with clients to design, build and optimise modern cloud-based data platforms, enabling advanced analytics, regulatory reporting and data-driven decision-making. As a Senior Consultant, you will combine technical delivery with client engagement, helping organisations modernise their data landscape while mentoring junior colleagues and contributing to Capco's collaborative consulting culture. What You'll Do Design, develop and optimise scalable data pipelines and cloud-native data platforms using Snowflake and modern data engineering technologies. Build robust ELT/ETL solutions, integrating data from multiple enterprise sources while ensuring quality, security and governance. Collaborate with business stakeholders, architects and cross-functional delivery teams to translate business requirements into technical solutions. Optimise Snowflake performance, cost management and data modelling to deliver efficient, high-performing data platforms. Support client engagements through technical leadership, solution design, mentoring team members and contributing to successful project delivery."
+"Senior Data Engineer
+Flairstech",N/A,Abu Dhabi - United Arab Emirates,5 - 10 Years,"Job Description
+Roles & Responsibilities
+Design, develop, and maintain scalable data pipelines to ingest, transform, and process data within the Google Cloud Platform (GCP) ecosystem. Build and optimize cloud-native data warehouses and data lake solutions using GCP services. Develop and maintain robust data models to support analytics, reporting, and operational use cases. Collaborate with Data Scientists, Analysts, and Software Engineers to understand data requirements and deliver reliable data solutions. Monitor, troubleshoot, and optimize data pipelines, ensuring high availability, performance, and reliability. Implement data orchestration and workflow automation solutions across GCP environments. Ensure data quality, consistency, governance, and security across data platforms. Support the integration of data engineering solutions into business applications and services. Document data engineering processes, standards, and best practices. Continuously improve data platform performance, scalability, and reliability. Participate in technical design discussions and contribute to data architecture decisions. Mentor junior engineers and promote engineering best practices and quality standards."
+"Data Engineer
+CME",N/A,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+Build resilient data pipelines using Medallion architecture principles. Manage and optimize open storage formats including Parquet, Iceberg, and Delta Lake. Design, develop, and maintain distributed data processing workloads using Databricks and Apache Spark. Perform database operations, optimization, and maintenance for PostgreSQL and SQLite environments. Ensure data quality, reliability, scalability, and performance across data platforms. Collaborate with data consumers and stakeholders to support reporting, analytics, and operational data requirements. Monitor, troubleshoot, and improve data infrastructure and pipeline performance. Follow data engineering best practices, coding standards, and documentation processes."
+"Senior Data Engineer
+Big Data Technology Solutions",N/A,Abu Dhabi - United Arab Emirates,5 - 10 Years,"Job Description
+Roles & Responsibilities
+We are seeking a highly skilled Senior Data Engineer to join our on-site team in the United Arab Emirates on a contract basis, providing expert technical and operational support for a complex enterprise data platform built on Informatica and Cloudera Hadoop technologies. In this role, you will be responsible for end-to-end support and maintenance of enterprise data engineering, ETL, data quality, metadata, and governance platforms, ensuring the stability, performance, and reliability of large-scale data processing and the production workflows that depend on them. You will develop, monitor, troubleshoot, and optimize Informatica workflows, mappings, applications, and data pipelines, while adm..."
+"Integration and Data Engineer
+Client of Premier Services & Recruitment",N/A,"Wakra , Doha - Qatar",5 - 10 Years,"Job Description
+Roles & Responsibilities
+We are looking for you as early as possible as Integration and Data Engineer for our Rail Operation Egypt for the primary location Cairo, Egypt . The role: Reporting to the Manager IT Projects and Applications, the Integration and Data Engineer is responsible for designing, building, and maintaining the data pipelines, ETL processes, and system integrations that enable the high-speed railway organization to move, transform, and store data reliably across its application landscape. This is a hands-on engineering role at the core of how the organization turns raw operational data into trusted, accessible information for reporting and business intelligence. You are successful when data flows reliably between systems, pipelines are well built and maintainable, and the organization can count on clean and timely data to support its decisions. You also contribute to shaping the integration standards and patterns that guide how systems connect across the broader IT environment."
+"Lead Data Engineer
+Coforge",N/A,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+We at Coforge are looking for ""Lead Data Engineer"" for Dubai, UAE
+Location: Detailed Job Description
+Key Responsibilities:
+Design, develop, and maintain scalable data pipelines and ETL/ELT solutions.
+Build Data Lake, Data Warehouse, BI, and Analytics platforms.
+Convert business requirements into robust technical solutions.
+Ensure data quality, security, governance, and performance optimization.
+Perform code reviews, troubleshooting, and production support.
+Collaborate with cross-functional teams on architecture and data engineering best practices.
+Maintain metadata, data lineage, and data governance standards.
+Technical Skills:
+Cloud & Big Data: Azure, Cloudera, Hadoop, Spark, Scala, Hive, HBase, Kafka
+Data Engineering: Azure Data Factory (ADF), Databricks, Airflow, Apache NiFi, Oozie, Sqoop
+Storage & Processing: HDFS, ADLS Gen2, Snowflake, Streaming (Spark Streaming)
+Data Integration: SnapLogic, TIBCO
+Databases & BI: SQL, Power BI, MicroStrategy, Elasticsearch
+Version Control & DevOps: Git, Bitbucket, Azure DevOps
+File Formats: AVRO, PARQUET"
+"Senior Data Engineer
+Future Look ITC",N/A,Riyadh - Saudi Arabia,4 - 10 Years,"Job Description
+Roles & Responsibilities
+Senior Data Engineer
+
+Design and build scalable data pipelines and infrastructure to power our AI models and analytics platforms."
+"Senior Data Engineer
+Iitjobs Inc.",N/A,"Wakra , Doha - Qatar",5 - 10 Years,"Job Description
+Roles & Responsibilities
+We are looking for a skilled professional to join a leading Data, AI, and Digital Transformation organization that helps businesses leverage data, advanced analytics, artificial intelligence, and emerging technologies to drive innovation and business growth. You can also refer a candidate and earn an exciting bonus of 50,000!
+Job Type: Contract-to-hire Location: Oman Experience: 7+ Years Required Skills: 7+ years of experience in SSIS, SQL Server, ETL, and data engineering. Strong hands-on experience with SSIS development and T-SQL. Strong knowledge of stored procedures, views, functions, triggers, and SQL scripting. Experience with SQL query optimization and performance tuning. Experience handling large datasets and complex ETL workflows. Strong understanding of ETL concepts and data warehousing. Experience with data migration, reconciliation, and validation. Strong debugging and production troubleshooting skills. Experience with SQL Server Agent and ETL job scheduling. Good understanding of database connectivity and source/target systems.
+Mandatory Skills: SQL Server Integration Services, Advance SQL, Sql / T-Sql, ETL Development, Data Migration"
+"Senior Data Engineer
+Client of Salt",N/A,Dubai - United Arab Emirates,5 - 10 Years,"Job Description
+Roles & Responsibilities
+My client is looking for a Senior Data Engineer to build scalable, reliable data pipelines and data products supporting analytics, AI and business self-service . You ll work across cloud data platforms, operational systems and integration services, helping create a trusted, secure and high-quality enterprise data environment."
+"Senior Data Engineer
+Iitjobs Inc.",N/A,Muscat - Oman,7 - 12 Years,"Job Description
+Roles & Responsibilities
+SSIS & ETL Development
+Design and develop robust SSIS packages and ETL workflows. Develop data extraction, transformation, and loading processes from multiple sources. Implement incremental loads, error handling, logging, auditing, and restart mechanisms. Develop reusable ETL components and frameworks. Develop complex T-SQL queries, stored procedures, views, functions, and scripts.
+Roles & Responsibilities
+5+ years of experience in SSIS, SQL Server, ETL, and data engineering. Strong hands-on experience with SSIS development and T-SQL. Strong knowledge of stored procedures, views, functions, triggers, and SQL scripting. Experience with SQL query optimization and performance tuning."
+"Senior Data Engineer (Spark)
+SSC Egypt",N/A,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+Builds and runs large scale batch data pipelines, keeping jobs fast and affordable as data volumes grow. Works with Apache Spark to build and manage large scale data processing jobs, including performance tuning to maintain efficient and reliable pipeline execution. Supports data modelling for analytics and organises data in a lakehouse so it is usable downstream. Handles automated scheduling, monitoring, and data quality checks, while working with platform and product teams on end to end data flows."
+"Big Data Engineer L2
+Alef Education",N/A,Abu Dhabi - United Arab Emirates (UAE),5 - 8 Years,"Job Description
+Roles & Responsibilities
+Key Responsibilities
+Defining and developing services and solutions
+Define, design, and develop services and solutions around large data ingestion, storage, and management such as withRDBMS, No SQL DBs, Log Files, Events.
+Define, design, and run robust data pipelines/batch jobs in a production environment.
+Architecting highly scalable, highly concurrent, and low latency systems
+Maintain, support, and enhance current systems.
+Contribute to paying down technical debt and use development approaches that minimize the growth of new technical debt.
+Contribute feedback to improve the quality, readability, and testability of the code base within your team.
+Mentor and train other developers in a non-line management capacity.
+Build tools (One of SBT, Gradle, Maven).
+Ensure all software built is robust and scalable.
+Collaborating with Internal and external stakeholders
+Participating in sprint planning to work with developers and project teams to ensure projects are deployable and monitorable from the outside.
+Work with third-party and other internal providers to support a variety of integrations.
+As part of the team, you may be expected to participate in some of the 2nd line in-house support and Out-of-Hours support rotas.
+Proactively advise on best practices."
+"Data Engineering Lead
+Bosta",Bosta,Abu Dhabi - United Arab Emirates (UAE),7 - 10 Years,"Job Description
+Roles & Responsibilities
+About the role:
+We are looking for an experienced Data Engineering Lead to lead a team of data engineers and own the design, development, and scalability of our data platform. This role combines hands-on technical leadership, data architecture ownership, and people management, with a strong focus on building reliable, scalable, and business-aligned data solutions.
+Job Qualifications:
+Technical Leadership & Architecture
+Own and define the data architecture across data warehouses, data marts, and analytical layers.
+Lead data modeling initiatives (fact/dimension modeling, analytical schemas) to support reporting, analytics, and advanced use cases.
+Design scalable, reliable, and cost-efficient ETL/ELT pipelines.
+Ensure data platforms are built with performance, scalability, and maintainability in mind.
+Define and enforce best practices for data engineering, including naming conventions, documentation, testing, and monitoring.
+Team Leadership & Management
+Lead, mentor, and support a team of data engineers, ensuring technical growth and delivery quality.
+Conduct code reviews, architecture reviews, and technical guidance sessions.
+Foster a culture of ownership, accountability, and continuous improvement.
+Project Ownership & Delivery
+Own data engineering projects end-to-end, from requirements gathering to deployment and post-release support.
+Partner closely with Analytics, Product, Operations, and Business teams to translate requirements into scalable technical solutions.
+Manage priorities, timelines, and dependencies across multiple initiatives.
+Ensure data solutions align with business needs and long-term strategy.
+Data Quality, Reliability & Governance
+Implement monitoring, alerting, and validation to ensure data accuracy and pipeline stability.
+Define data governance standards around data quality, access, and documentation.
+Proactively identify and mitigate risks related to data growth, performance, and system limitations.
+Job Qualifications:
+6+ years of experience in data engineering or related roles.
+Proven experience designing and maintaining data architectures and data warehouses.
+Strong expertise in SQL and data modeling techniques (star schema, snowflake, dimensional modeling).
+Hands-on experience building ETL/ELT pipelines using modern data tools.
+Experience with cloud-based data platforms (e.g., AWS, GCP, Azure).
+Experience working with large-scale, high-volume data environments.
+Prior experience working in a startup or fast-growing environment.
+Strong problem-solving skills and ability to work in ambiguous, evolving environments."
+"Data Engineering Tech Lead
+Deloitte",Deloitte,Dubai - United Arab Emirates (UAE),5 - 8 Years,"Job Description
+Roles & Responsibilities
+Connect to your opportunity
+Identify and solve complex problems using a structured and logical approach.
+Stay up to date on the latest data engineering technologies and trends.
+Work with other engineering teams to integrate data engineering solutions with other systems.
+Maintain and optimize data systems to ensure high availability and performance.
+Design and implement data pipelines to collect, transform, and load data into data warehouses and data lakes.
+Gather requirements from stakeholders and translate them into technical specifications.
+Lead a team of data engineers in the design, development, and implementation of data engineering solutions.
+Manage functional and non-functional requirements and have a deep understanding of systems engineering methodologies.
+Build and maintain positive relationships with stakeholders, and to effectively communicate technical concepts to non-technical audiences.
+Manage multiple projects simultaneously in a highly organized and efficient manner.
+Think creatively and come up with new solutions to problems.
+Communicate effectively with technical and non-technical audiences, both verbally and in writing.
+Connect to your skills and professional experience
+Technical skills:
+7+ years of relevant experience.
+Cloud computing platforms: AWS/Azure/GCP
+Programming languages: Python/Java/Scala & Unix Shell scripting
+Data warehouse technologies: Redshift/Snowflake/Big Query
+Data lake technologies: Hadoop, Apache Beam, Spark, and Hive
+Orchestration: Airflow/Control-M/(Any Orchestration tool)
+Machine learning frameworks: TensorFlow, PyTorch, and scikit-learn
+Connect to your service line - Technology & Transformation
+Distinctive thinking, deep expertise, and collaborative working. That s what connects us. That s what makes us Deloitte. If you want to help solve some of the biggest challenges around, join us. Together, we ll make an impact that matters."
+"Senior Data Engineer
+aspire",aspire,Abu Dhabi - United Arab Emirates,3 - 8 Years,"Job Description
+Roles & Responsibilities
+
+About the Job
+At Aspire, we're looking for a passionate and experienced Data Engineer to join our growing technology team. In this role, you'll design, build, and optimize scalable data platforms that power analytics, reporting, and business-critical decision-making. You'll collaborate with cross-functional teams to develop reliable, high-performance data solutions while leveraging modern cloud technologies and data engineering best practices.
+What You'll Do
+Design, develop, and maintain scalable ETL/ELT pipelines for structured and unstructured data.
+Build and optimize batch and real-time data processing workflows.
+Design and implement robust data models, data warehouses, and data lakes.
+Integrate data from multiple sources, including APIs, databases, cloud services, and third-party applications.
+Ensure data quality, consistency, integrity, and security across the organization's data platforms.
+Optimize the performance of data pipelines, SQL queries, and large-scale data processing systems.
+Collaborate with Analytics, Business Intelligence, and Data Science teams to deliver trusted datasets for reporting and insights.
+Work closely with Software Engineering and DevOps teams to build reliable and scalable data infrastructure.
+Implement monitoring, logging, and alerting to ensure data pipeline reliability and operational excellence.
+Participate in designing and evolving the organization's data architecture and engineering standards.
+Mentor junior data engineers by sharing technical knowledge and promoting engineering best practices.
+Document data flows, architecture, and technical implementations to support knowledge sharing and maintainability.
+What You'll Need
+Bachelor's degree in Computer Science, Data Engineering, Information Systems, or a related field.
+5+ years of experience in Data Engineering or a similar role.
+Strong expertise in SQL and relational databases such as Oracle, PostgreSQL, SQL Server, and MySQL.
+Hands-on experience with Apache Airflow, Apache Kafka, Apache Spark, or similar data engineering technologies.
+Strong programming skills in Python, Java, or Scala.
+Experience with cloud data warehouse solutions such as Snowflake, Amazon Redshift, Google BigQuery, or Azure Synapse Analytics.
+Strong understanding of ETL/ELT processes, data modeling, and data integration best practices.
+Experience working with large-scale distributed data systems.
+Familiarity with cloud platforms such as AWS, Microsoft Azure, or Google Cloud Platform (GCP).
+Experience using Git or other version control systems.
+Strong analytical, problem-solving, and communication skills.
+Experience with real-time streaming technologies such as Kafka, Flink, or Spark Streaming is a plus
+Knowledge of modern data lake platforms, including Delta Lake and Databricks is a plus
+Experience with Docker and Kubernetes is a plus
+Familiarity with BI and visualization tools such as Power BI, Tableau, or Looker is a plus
+Experience implementing CI/CD pipelines for data engineering workflows is a plus
+Understanding of data governance, security, privacy, and compliance practices is a plus
+Experience working in Agile or Scrum environments."
+"Data Engineer (L1) - Remote
+Deepsource Technologies",N/A,"Wakra , Doha - Qatar",5 - 10 Years,"Job Description
+Roles & Responsibilities
+As a Data Engineer He/She will be responsible for designing, building, and maintaining the data architecture and infrastructure required for our organization's data needs. will also be responsible for developing, testing, and deploying data solutions, ensuring that they meet our organization's needs.
++2 years of experience in Data Engineering
+Strong knowledge of Python for data processing and analysis
+Hands-on experience with Pandas and PySpark
+Experience with Databricks and Azure Data Factory
+Basic experience with Azure Synapse Spark
+Good SQL querying and optimization skills
+Experience in data pipelines and ETL workflows
+Knowledge aligned with Databricks Certified Data Engineering Associate
+Nice to have: SQL Server migration and Terraform for Azure
+L1 knowledge assessed in the Databricks certification: Databricks Certified Data Engineering Associate"
+"Data Engineering, Senior Tech Lead
+Deloitte",Deloitte,Egypt - Egypt,10 - 30 Years,"Job Description
+Roles & Responsibilities
+Connect to your career at Deloitte Deloitte, established globally in 1845, is the world s largest and leading professional services firm, providing Audit & Assurance, Tax & Legal and Consulting and related services to public and private clients spanning multiple industries. Present in more than 150 countries, Deloitte is distinct in its ability to help clients solve their most complex problems, from strategy to implementation. Deloitte innovation hub (DIH) is a strategic initiative established to support our ambition to become the leading business transformation partner of choice for our clients and to expand and scale our delivery footprint across EMEA. With access to a scaled, diverse, highly skilled, motivated, and engaged workforce, DIH is delivering complex technical solutions for clients most complex business problems, across portfolios that include Strategy & Transactions , Customer , Engineering, AI & Data, Enterprise, Technology & Performance and Cyber . DIH is aiming to become the destination for top talents in Egypt for a long, exciting career. We invest in outstanding people of diverse talents and backgrounds and empower them to achieve more than they could elsewhere. Our work combines advice with action and integrity. We believe that when our clients and society are stronger, so are we. Our organization has grown in scale and diversity, providing services across the region, with our shared culture remaining the same. We aim to help clients realize their ambitions, make a positive difference in society, and maximize the success of our people. This drive fuels the commitment and humanity that run deep through our every action.
+Connect to your opportunity
+Problem-solving skills: Demonstrates the ability to identify and solve complex problems using a structured and logical approach. Systems engineering: You should have experience in managing functional and non-functional requirements and have a deep understanding of systems engineering methodologies. Stakeholder management: Demonstrates the ability to build and maintain positive relationships with stakeholders, and to effectively communicate technical concepts to non-technical audiences. Organizational skills: Is highly organized and efficient and has a proven ability to manage multiple projects simultaneously. Creativity and innovation: Are able to think creatively and come up with new solutions to problems. Communication skills: Is able to communicate effectively with technical and non-technical audiences, both verbally and in writing.
+Connect to your skills and professional experience
+10+ years of experience in data engineering
+Technical skills: Cloud computing platforms: AWS/Azure/GCP Programming languages: Python/Java/Scala & Unix Shell scripting Data warehouse technologies: Redshift/Snowflake/Big Query Data lake technologies: Hadoop, Apache Beam, Spark, and Hive Orchestration: Airflow/Control-M/(Any Orchestration tool) Machine learning frameworks: TensorFlow, PyTorch, and scikit-learn
+Responsibilities: Lead a team of data engineers in the design, development, and implementation of data engineering solutions. Gather requirements from stakeholders and translate them into technical specifications. Design and implement data pipelines to collect, transform, and load data into data warehouses and data lakes. Maintain and optimize data systems to ensure high availability and performance. Work with other engineering teams to integrate data engineering solutions with other systems. Stay up to date on the latest data engineering technologies and trends.
+Connect to your service line - Technology and Transformation Distinctive thinking, deep expertise, and collaborative working. That s what connects us. That s what makes us Deloitte. If you want to help solve some of the biggest challenges around, join us. Together, we ll make an impact that matters.
+Personal independence Regulation and controls are standard practice in our industry and Deloitte is no exception. These controls provide important legal protection for both you and the firm. We are subject to several audit regulations, one of which requires that certain colleagues abide by specific personal independence constraints. This can mean that you and your ""Immediate Family Members"" are not permitted to hold certain financial interests (shares, funds, bonds etc.) with audit clients of the firm. The recruitment team will provide further detail as you progress through the recruitment process.
+Connect to your Industry What attracted me to Deloitte were the endless opportunities and the collective experience of other like-minded individuals. Deloitte s clients include many of the world s largest organisations; I wanted to be part of a team that made a difference that I could be proud of. -Dan, Technology & Transformation
+Our commitment to you Making an impact is more than just what we do: it s why we re here. So we work hard to create an environment where you can experience a purpose you believe in, the freedom to be you, and the capacity to go further than ever before. We want you. The true you. Your own strengths, perspective, and personality. So, we re nurturing a culture where everyone belongs, feels supported and heard, and is empowered to make a valuable, personal contribution. You can be sure we ll take your wellbeing seriously, too. Because it s only when you re comfortable and at your best that you can make the kind of impact you, and we, live for. Your expertise is our capability, so we ll make sure it never stops growing. Whether it s from the complex work you do, or the people you collaborate with, you ll learn every day. Through world-class development, you ll gain invaluable technical and personal skills. Whatever your level, you ll learn how to lead.
+Connect to your next step A career at Deloitte is an opportunity to develop in any direction you choose. Join us and you ll experience a purpose you can believe in and an impact you can see. You ll be free to bring your true self to work every day. And you ll never stop growing, whatever your level."
+"Data Engineer
+Contango",N/A,Abu Dhabi - United Arab Emirates (UAE),5 - 10 Years,"Job Description
+Roles & Responsibilities
+We are seeking an experienced Data Engineer to design, build, and operate scalable, secure, and reliable data pipelines and platforms that power analytics and AI solutions for companies in the UAE. The role is hands-on and client-facing, owning data solutions end-to-end from architecture and development to production and hypercare on cloud and on-premise.
+Key Responsibilities
+Design, build, and maintain scalable batch and streaming data pipelines (ETL/ELT) that move data reliably from source systems to analytics and AI workloads.
+Build and optimize data models, databases, data warehouses, and lakehouse architectures (e.g., Databricks, Microsoft SQL Server) for performance and cost.
+Develop and tune distributed processing jobs using Spark/PySpark, including cluster management and optimization.
+Ensure data quality and data governance across the full data lifecycle (collection, access, storage, transformation, retention).
+Productionize pipelines with CI/CD, orchestration (e.g., Airflow, Azure Data Factory), monitoring, and alerting.
+Build the data foundation for analytics and AI use cases, collaborating closely with Data Scientists and AI Engineers (e.g., feature engineering, RAG data processing).
+Translate client business requirements into data architecture decisions and communicate trade-offs to technical and non-technical stakeholders.
+Maintain technical documentation, data lineage, and delivery artifacts across Design, Build, UAT, Production & Hypercare."
+"Data Engineer
+Nawy",N/A,Dubai - United Arab Emirates,1 - 6 Years,"Job Description
+Roles & Responsibilities
+Nawy Proptech is in search of a highly motivated and talented Data Engineer to become a valuable addition to our dynamic team. As a Data Engineer at Nawy, you will play a key role in data management, ensuring data quality, integrity, and modeling. We are seeking an individual with a strong technical background, hands-on experience with data processing technologies, and a passion for building robust and efficient data solutions. Collaborate with data scientists, analysts, and other stakeholders to understand data requirements and design appropriate solutions. Work closely with IT and infrastructure teams to deploy and maintain data storage and processing systems, including databases, data warehouses, and cloud infrastructure. Design, build, and maintain robust, scalable data pipelines to ingest, process, and transform data from various sources, including internal databases and external APIs. Optimize data pipelines for performance, scalability, and reliability, ensuring timely and accurate delivery of data. Implement data validation and quality checks to identify and rectify any issues in data pipelines, ensuring data integrity. Explore and evaluate new technologies, tools, and frameworks to improve data engineering processes and capabilities. Perform data modeling and schema design to support analytical and reporting requirements. Design and build data marts and business layers to facilitate efficient data access and analysis."
+"Senior Lead Data Engineer - Databricks
+Integrant Inc",Integrant Inc,"Wakra , Doha - Qatar",5 - 10 Years,"Job Description
+Roles & Responsibilities
+We're on the lookout for exceptional individuals to join our team as Lead Data Engineers . As a part of our team, you'll be driving change and making a significant impact in the gaming industry. Lead the design, development, and maintenance of end-to-end data analytical solutions using Microsoft on-premises and cloud technologies. Engage in collaborative requirement elicitation activities with our valued clientele. Mentor and guide junior team members in the field of data engineering. Showcase your expertise by delivering innovative analytical solutions to our clients and contributing to knowledge transfer within the organization.
+10+ years of experience as a data engineer. Familiarity with analytical architectures including Data Warehouses, Data Lakes and Data Lakehouses. Knowledge of Microsoft relational engines available both on-premises (MS SQL Server) and on the cloud (Azure SQL, Azure Synapse Analytics Dedicated Pools). Knowledge of query and workload optimization. Knowledge of administrating and managing analytical solutions both on premises and on the cloud. Knowledge of NoSQL offerings on Azure (e.g. CosmosDB). Knowledge of setting up Data Lakes on ADLS gen 2 and Azure Synapse Analytics. Knowledge of using SSIS and Azure Data Factory to set up ETL jobs. Knowledge of setting up OLAP solutions using SSAS. Familiarity with Azure Data Catalog to manage data lake metadata. Familiarity with Azure HD Insight. Familiarity with the Hadoop ecosystems, including tools like Hive, Spark and Kafka. Familiarity with Azure Functions to perform lightweight transformations. Knowledge of governance over Azure based analytical solutions including using tools such as Purview, Active Directory, Key Vault, Azure DevOps, etc. Knowledge of using Azure Stream Analytics to capture and analyze data in real time. Knowledge of setting up data warehouse solutions both on-premises (using MS SQL Server) and on the cloud (using Azure Synapse Analytics). Knowledge of Dimensional Modeling (Dimensions, Facts, Slowly Changing Dimensions, Outriggers, Role Playing Dimensions, Junk Dimensions, Degenerate Dimensions, Multi-valued Dimensions, Transactional Facts, Periodic Snapshot Facts and Accumulating Snapshot Facts). Knowledge of implementing common ETL patterns to support data warehouse workloads. Knowledge of using U-SQL, PolyBase and Azure Data Lake Analytics to perform federated querying. Knowledge of PowerBI. Familiarity with SSRS.
+Databricks Experience: Experience with Snowflake is required.
+Nice to Have: An MSc in Computer Science or other relevant field. Familiarity with DataOps Familiarity with Azure Cognitive Services. Familiarity with Azure ML. Familiarity with MLOps. Familiarity of containerization tools and frameworks (Docker, Kubernetes, etc.)
+Salary paid in USD Six-month career advancing opportunities Supportive and friendly work environment Premium medical insurance [employee +family] English language development courses Interest-free loans paid over 2.5 years Technical development courses Planned overtime program (POP) Employment referral program Premium location in Maadi Social insurance"
+"Data Engineer, Associate
+PricewaterhouseCoopers",N/A,Cairo - Egypt,0 - 3 Years,"Job Description
+Roles & Responsibilities
+You ll be joining our Data engineering, Reporting and Analytics practice, a core part of our Technology, Data & Analytics business unit. We support our clients in delivering a variety of transformation projects across the commercial sector from defining data strategies to helping architect, design and implement modern data and analytics solutions using the latest cloud technologies. The role will provide you with an opportunity to work across a portfolio of clients, with a focus on large and complex organisations. You will work in the team that reports to the Data Analytics delivery service leadership team and will be an integral part of the team based in Cairo, as well as those delivering client transformation programmes across the PwC Global Network, including the UK, Germany and Middle East. In data engineering at PwC, you will focus on designing and building data infrastructure and systems to enable efficient data processing and analysis. You will be responsible for developing and implementing data pipelines, data integration, and data transformation solutions."
+"Senior Data Engineer
+SSC Egypt",N/A,Cairo - Egypt,5 - 10 Years,"Job Description
+Roles & Responsibilities
+We are seeking a highly skilled Senior Data Engineer to join our data and analytics team. The ideal candidate will have extensive experience in working with diverse data sources, performing data profiling, and identifying matching records across systems to create master data records. This role requires strong analytical and technical skills, along with expertise in data quality, integration, transformation, and cloud-based data platforms.
+Roles & Responsibilities
+Data Source Analysis: Analyze multiple structured and unstructured data sources to understand schemas, data quality, and relationships. Assess and document the metadata, formats, and business rules of incoming data sets.
+Data Profiling & Matching: Perform comprehensive data profiling to assess completeness, accuracy, uniqueness, and consistency of data. Develop logic to match and reconcile records across different systems using keys, rules, or fuzzy matching techniques.
+Master Data Management (MDM): Design and implement processes for building and maintaining golden master records. Support creation and maintenance of master data across domains such as customer, product, asset, etc. Handle data deduplication and standardization.
+ETL & Data Pipelines: Build scalable data pipelines using Azure Data Factory for ingesting, transforming, and cleansing data from multiple sources. Ensure efficient data movement across staging, processing, and analytical layers. Leverage Azure Synapse Analytics (optional) for advanced data processing and analytics
+Collaboration & Governance: Work closely with business analysts, data stewards, and application owners to understand data definitions and ownership. Enforce data governance standards and best practices.
+Performance & Optimization: Monitor data workflows and optimize performance for large-scale processing. Troubleshoot data issues and implement robust logging and monitoring."
+"Data Engineer (ETL)
+Luxoft",Luxoft,Cairo - Egypt,2 - 7 Years,"Job Description
+Roles & Responsibilities
+Project description Our client, a leading manufacturer of high-end household appliances, is expanding into new smart product lines. As part of this strategic initiative, a large-scale global program is being implemented across the company's IP portfolio. This includes the development of new embedded software, enhancements to cloud infrastructure, and the creation of innovative interfaces within the mobile application. As a data engineer you will be responsible for data analytics part for product insights including user data, telemetry. feedback and other sources.
+Responsibilities
+Design, develop, and maintain scalable ETL/ELT pipelines for cloud-based data platforms.
+Build and support data integrations between Google Analytics and AWS environments.
+Work with GCP data sources, including user and CRM data, and process/analyze data using BigQuery.
+Design and maintain AWS data pipelines using Amazon Redshift, Amazon S3, and AWS Glue.
+Develop data ingestion, transformation, and loading processes for Redshift-based data warehouses.
+Implement and maintain DynamoDB backup, restore, and data extraction processes.
+Build reliable data flows between S3, Glue, DynamoDB, and Redshift.
+Optimize SQL queries, data models, ETL jobs, and Redshift performance for large datasets.
+Implement data quality checks, monitoring, logging, and error-handling mechanisms across data pipelines.
+Troubleshoot data pipeline failures, data inconsistencies, and performance issues.
+Ensure data security, integrity, availability, and appropriate access controls across AWS environment
+Collaborate with analytics, CRM, application, and business teams to understand data requirements and deliver reliable datasets for downstream consumption.
+Maintain technical documentation for data pipelines, transformations, data mappings, and operational procedures.
+Skills
+Must have
+Strong hands-on experience as a Data Engineer, with a primary focus on ETL/ELT development and data integration.
+Strong experience with AWS data services, particularly: Amazon Redshift Amazon S3 AWS Glue
+Hands-on experience designing, developing, and maintaining ETL/ELT pipelines.
+Strong SQL skills, including complex queries, data transformations, and performance optimization.
+Experience working with Amazon DynamoDB, including data extraction and backup/restore processes.
+Experience with BigQuery.
+Experience integrating and processing data from multiple sources, including CRM and user/customer data.
+Good understanding of data warehousing concepts, data modeling, and large-scale data processing.
+Experience with data quality, monitoring, troubleshooting, and optimization of production data pipelines.
+Proficiency in Python for data processing, automation, and ETL development.
+Good understanding of cloud data security, access management, and data protection principles.
+Strong troubleshooting and analytical skills.
+Good English communication skills and ability to work with distributed technical and business teams.
+Nice to have
+Working in an Agile environment and closely collaborating with various departments.
+Other Languages
+English: B2 Upper Intermediate
+Seniority Senior"
+"Data Engineer
+SSC Egypt",N/A,Cairo - Egypt,2 - 7 Years,"Job Description
+Roles & Responsibilities
+The Job Holder is Responsible to Builds and maintains data pipelines, ETL/ELT processes, and data integration solutions that move and transform data across the data platform to support analytics, reporting, and AI applications.
+Accountability Description Deliverables Pipeline Success Rate 99% Data Freshness SLA Meets agreed refresh schedule Data Quality Score 95% Pipeline Documentation 100% Incident Response 2 hours for pipeline failures
+Know How (applying of knowledge & skills in job tasks) Description Data Pipeline Development Design, build, and maintain ETL/ELT pipelines using Azure Data Factory, Synapse, or Databricks. Integrate data from D365 ERP, POS, e-commerce, and external sources into the data warehouse. Monitor pipeline performance and resolve data failures promptly. Data Quality Implement data quality checks and validation within pipelines. Collaborate with Data Analysts and BI Developers to resolve data issues. Maintain data lineage and documentation for all pipelines.
+Note: The principal accountabilities listed above are an illustrative list and not an exhaustive list. Additional responsibilities may be added from time to time depending on organizational requirements."
+"Data Engineer, Senior Associate
+PricewaterhouseCoopers",N/A,Abu Dhabi - United Arab Emirates,3 - 8 Years,"Job Description
+Roles & Responsibilities
+As a Senior Associate in the Data Engineering team, you will play a key role in designing, building, and optimizing modern data platforms and pipelines on Azure and Databricks. You will work within cross-functional teams to deliver scalable, secure, and high-performing data solutions that enable advanced analytics, AI, and business insights for enterprise clients. This role requires a strong understanding of cloud data architecture, hands-on experience with Azure data services (including Microsoft Fabric), and deep practical knowledge of Databricks for batch and data engineering. Key Responsibilities Design, develop, and maintain end-to-end data pipelines across structured, semi-structured, and unstructured data sources. Implement data ingestion, transformation, and orchestration frameworks leveraging Azure Data Factory, Synapse, and/or Microsoft Fabric Data Pipelines. Develop and optimize ETL/ELT processes using Databricks (PySpark, SQL, Delta Lake) to ensure high performance and scalability. Implement and enforce data quality, lineage, and governance practices. Work closely with solution architects to design modern data architectures and ensure compliance with security and privacy standards. Participate in client workshops and technical discussions to translate business needs into technical designs."
+"Snowflake Data Engineer
+SQLI",N/A,Dubai - United Arab Emirates (UAE),8 - 15 Years,"Job Description
+Roles & Responsibilities
+Job Description
+Job Description
+We are looking for a Snowflake Data Engineer to join our Data Engineering team. Your responsibilities will include the design, implementation, and optimization of data management solutions on the Snowflake platform, in collaboration with technical and business teams.
+Main missions
+Design, deploy and maintain data architectures on Snowflake.
+Working on integrating data from different sources (databases, APIs, files, etc.) into Snowflake.
+Ensuring the performance and optimization of SQL queries in a Snowflake environment.
+Ensure data quality and the implementation of good data governance practices.
+Set up and automate ETL/ELT processes with Snowflake.
+Collaborating with Data Science, Business Intelligence teams and other stakeholders to define data requirements.
+Participate in the implementation of monitoring and alerting solutions to ensure data availability and quality.
+Ensure the management of large and complex data while optimizing the costs of using Snowflake."
+"Senior Data Engineer
+Robusta Studio",N/A,"Wakra , Doha - Qatar",5 - 10 Years,"Job Description
+Roles & Responsibilities
+We are seeking a highly experienced Senior Data Engineer to lead the technical design, implementation, and delivery of an enterprise-grade, AI-ready Data Lakehouse platform.
+The ideal candidate will have strong software engineering experience with a focus on data pipeline development, data architecture, and scalable distributed systems. You will play a key role in designing and maintaining robust data infrastructure that enables advanced analytics and AI capabilities.
+This position also involves technical leadership, mentoring engineering teams in a collaborative co-building model, and ensuring long-term operational ownership.
+Key Responsibilities
+Lakehouse Architecture & Implementation: Design and deploy a unified Data Lakehouse utilizing the Medallion architecture (Bronze, Silver, Gold) and open table formats (e.g., Delta Lake, Apache Iceberg) on cloud infrastructure hosted within Saudi Arabia.
+Data Ingestion & Pipeline Engineering: Build reusable, automated ingestion frameworks (batch and streaming) capable of processing both structured data (RDBMS, APIs) and unstructured data (PDFs, policy documents) to feed downstream AI models and semantic reasoning engines.
+Data Quality & Governance: Implement automated data quality ""circuit breakers"" (completeness, uniqueness, referential integrity) and end-to-end data lineage tracking frameworks.
+Optimization: Optimize data processing workflows for performance, scalability, and cost-efficiency.
+System Monitoring and Maintenance: Monitor and maintain data systems, responding to SEVs or other urgent issues to ensure continuous operations.
+Security & Compliance: Ensure the platform adheres strictly to NCA (National Cybersecurity Authority) and NDMO (National Data Management Office) standards. Implement AES-256 encryption at rest, TLS 1.2+ in transit, robust Key Management Systems (KMS), and centralized audit logging.
+Access Control Integration: Design and deploy granular Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC), integrating seamlessly with existing enterprise Identity Providers (e.g., Active Directory).
+Capability Building & Handover: Lead hands-on knowledge transfer sessions, pair-programming with client engineers, creating operational runbooks, and conducting ""Game Day"" failure simulations to ensure the client s team is fully ready to operate the platform independently.
+Education: Bachelor s or Master s degree in Computer Science, Engineering, or a related field.
+Experience: 5+ years of proven experience in Data Engineering, Distributed Systems, or Big Data Architecture, with at least 2+ years specifically leading Data Lakehouse or Cloud Data Platform implementations.
+Technical Skills & Core Technologies:
+Programming Languages: Proficiency in programming languages such as Python, Java, or Scala.
+Data Architecture & System Design: Strong expertise in designing data-intensive applications, complex data modeling, and schema design for enterprise environments.
+Distributed Systems & Lakehouse Technologies: Deep, hands-on experience with distributed processing engines (e.g., Apache Spark, Kafka, Hadoop) and modern open table formats (e.g., Delta Lake, Apache Iceberg, Apache Hudi).
+ETL/ELT & Orchestration: Experience designing and building robust data pipelines using modern transformation and orchestration tools (e.g., Apache Airflow, Prefect, dbt).
+Database Ecosystems: Proven track record with relational databases (e.g., PostgreSQL, MySQL), NoSQL platforms (e.g., MongoDB, Cassandra), and distributed SQL query engines like Hive and Trino.
+Cloud Infrastructure: Proven experience deploying enterprise data solutions on major cloud providers, specifically within localized Saudi cloud regions. Expertise in Oracle Cloud Infrastructure (OCI) or Google Cloud Platform (GCP) is highly preferred, though experience with AWS or Azure is acceptable.
+Analytical Skills: Strong problem-solving skills with a keen eye for detail and a passion for data.
+AI/Data Science Enablement: Prior experience building data pipelines optimized for Machine Learning, Natural Language Processing (NLP), vector embeddings, or Knowledge Graphs/Ontologies is highly desirable.
+Security & Networking: Strong understanding of enterprise network security, Private Endpoints, Identity & Access Management (IAM), and cryptographic key management.
+Communication: Excellent written and verbal communication skills, with the ability to articulate complex technical concepts to non-technical stakeholders.
+Leadership Skills: Demonstrated ability to lead technical teams, manage stakeholder expectations, and successfully transition complex systems to internal IT/Data teams.
+Regulatory Knowledge: Familiarity with Saudi Arabian data compliance frameworks (NCA CCC, NDMO, SDAIA) is highly preferred."
+"Senior Data Engineer
+Mindera",N/A,Abu Dhabi - United Arab Emirates,3 - 8 Years,"Job Description
+Roles & Responsibilities
+Here at Mindera, we are continuously developing a fantastic team and would love it for you to join us.
+As a Senior Data Engineer, you will be a key member of our data team responsible for designing, building, and maintaining the data infrastructure and pipelines that drive our data-driven decision-making processes. You will collaborate with cross-functional teams to ensure the availability, reliability, and accessibility of our data assets, enabling our organization to extract actionable insights and deliver high-impact solutions.
+National and international expected traveling time varies according to project/client and organizational needs: 0%-15% estimated."
+"Data Architects / Data Engineers - Telecom & OSS
+Capgemini",N/A,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same. We are expanding our Data team and are looking for experienced Data Architects and Data Engineers with strong expertise in Telecom and OSS environments. The successful candidates will contribute to both the design and implementation of enterprise data models, ensuring alignment between business needs, operational processes, and technical solutions. Key Responsibilities Develop, maintain, and optimize data models aligned with TM Forum SID standards . Translate business and operational requirements into scalable data and solution designs. Analyze, map, and harmonize data across multiple OSS systems. Support the definition of data ownership, mastership rules, business objects, and data standards. Produce detailed analysis and design deliverables to support architectural decisions. Collaborate with business, operational, and technology stakeholders to ensure alignment of data solutions. Contribute to the definition and evolution of standardized data models and cross-system mapping frameworks, with a focus on ORI, MOST, and IRP . Ensure consistency, quality, and governance across enterprise data assets."
+"Azure Data Engineer
+Ghobash Group",Ghobash Group,Abu Dhabi - United Arab Emirates (UAE),5 - 10 Years,"Job Description
+Roles & Responsibilities
+The Azure Data Engineer is responsible for designing, implementing, and managing robust data solutions to meet business needs. This includes overseeing data pipelines, Azure data platform services, and delivering actionable insights through Power BI dashboards and reports. The specialist will play a critical role in transforming raw data into valuable insights, ensuring data accuracy, and supporting business intelligence initiatives across the organization.
+Azure Data Platform Management: Design, implement, and manage Azure SQL databases, Azure Data Lake Storage, and related Azure & Fabric services.
+ETL Processes and Data Pipelines: Create, monitor, and optimize ETL (Extract, Transform, Load) workflows to integrate data from multiple sources into centralized systems, ensuring reliability and performance.
+SQL and Python Development: Utilize SQL for querying, analysing, and managing relational databases, and develop Python scripts to automate data processes, integrate data sources, and support advanced analytics.
+Big Data and Advanced Analytics: Leverage Azure Databricks for big data processing, analytics, and machine learning workflows, and utilize tools like Apache Spark and Hadoop for processing large datasets.
+Data Warehousing: Develop and maintain enterprise data warehouses to support analytics and reporting needs while ensuring seamless integration with visualization tools.
+Data Security and Compliance: Implement robust data security measures to protect sensitive data, maintain compliance with organizational and regulatory standards, and support disaster recovery processes.
+Collaboration and Documentation: Collaborate with cross-functional teams to gather requirements and deliver data solutions while maintaining detailed documentation of data architectures, ETL processes, and Power BI standards.
+AI Enablement: Design, implement and Manage data solutions for the AI needs.
+IT Policies and IT Processes impacted/addressed by this position:
+Database Management Process: Adherence to data governance processes and policies to ensure data accuracy and security.
+Data Security Policy: Ensuring compliance with data protection and security guidelines.
+Change Management Policy: Following procedures for managing changes in technology and processes.
+Business Continuity Policy: Supporting business continuity planning and disaster recovery processes.
+IT Incident Management: Participating in the resolution of IT incidents related to data solutions."
+"Data Engineer Consultant
+Total-TECH Co",N/A,Jeddah - Saudi Arabia,5 - 10 Years,"Job Description
+Roles & Responsibilities
+The Job Description
+1- Enterprise Data Ingestion and Data Engineering: Design and build scalable, reusable ingestion pipelines (realtime and batch) on GCP (GCS, BigQuery, Dataflow).
+Develop parameterized pipelines using Google-native services and/or Informatica IDMC mappings and taskflows.
+Implement CDC patterns, idempotent loads, late arriving data handling, and schema evolution.
+Optimize BigQuery ingestion strategies (batch vs. streaming, partitioning, clustering).
+Establish version control, CI/CD, and environment promotion (dev/test/prod).
+Results:
+GCP-native pipelines (Dataflow, Composer, Cloud Run) and/or IDMC mappings/taskflows.
+BigQuery schema designs (raw / stage / curated zones with partitioning & clustering).
+CI/CD pipelines, deployment artifacts, and operational runbooks.
+2-Data Mapping & Transformation Design :Profile source data and analyze data quality and patterns.
+Design field level mappings, business rules, joins, aggregations, and derivations.
+Implement transformations using BigQuery SQL, Dataflow, or IDMC transformation logic.
+Results:
+Source to Target Mapping (STM) document.
+Transformation mappings.
+3- Orchestration, Automation & Reliability Engineering : Build and parameterize end to end workflows using Cloud Composer (Airflow) and/or IDMC taskflows.
+Define job dependencies, schedules, SLAs, and failure handling strategies.
+Implement retries, backoff strategies, checkpoints, and restartability.
+Integrate monitoring, logging, and alerting using Cloud Monitoring, Cloud Logging, and ChatOps tools.
+Results:
+Production ready orchestration workflows with environment aware parameters.
+Scheduling calendar, dependency diagrams, and SLA matrix.
+Alerting, monitoring dashboards, and operational SOPs.
+4-Data Pipelines Monitoring, Performance & Cost Optimization : Monitor pipeline health, data freshness, volumes, and anomaly patterns.
+Support and monitor data pipelines during off hours and weekends, troubleshooting and resolving issues to ensure SLA compliance.
+Track and manage SLAs related to runtime, failures, cost, and data latency.
+Optimize BigQuery performance (query refactoring, partition pruning, materialized views).
+Manage and optimize GCP costs (storage lifecycle, slot usage, query optimization, caching).
+Results:
+Daily/weekly operational and SLA reports.
+Performance and cost optimization plans with before/after metrics.
+BigQuery tuning guidelines and data materialization strategy.
+Requirements:
+5+ years of experience as a Data Engineer or ETL Developer.
+Skills required technical, managerial : Strong experience with Google Cloud Platform: BigQuery, GCS, Data Stream, Dataflow, Cloud Composer, IAM, Cloud Monitoring.
+Proficiency in SQL (BigQuery optimized) and data modeling for analytics.
+Hands on experience building production grade, scalable data pipelines.
+Experience with CI/CD, Git based version control, and DevOps practices.
+[Optional] Experience with Informatica Intelligent Data Management Cloud (IDMC) CDI, Mass Ingestion, Taskflows.
+Bachelor s degree in Computer Science, Information Technology, Information Systems, or a related.
+Tagged as: cdi. , ci/cd , devops , ETL , informatica , SQL"
+"Senior Data Engineer
+Bamboo Card",N/A,Abu Dhabi - United Arab Emirates (UAE),5 - 10 Years,"Job Description
+Roles & Responsibilities
+Bamboo Card is a fast-growing e-gift card distribution platform connecting global brands, marketplaces, and digital wallets. We empower clients to offer seamless digital gifting experiences across multiple categories from gaming and entertainment to lifestyle and retail. We're looking for our Data Engineer #1 - someone who is excited to roll up their sleeves and build our data ecosystem entirely from scratch. In this foundational, hands-on role, you will design, build, and scale our data platform from the ground up. You ll own everything from setting up the data warehouse and ETL pipelines to creating Power BI dashboards and unlocking AI-driven forecasting capabilities You thrive in ambiguity: You are comfortable being the sole expert in the room when it comes to data. You don't need a playbook - you write it. You are a practical builder: You know how to balance ""perfect architecture"" with ""getting things done."" You prefer building high-impact MVPs over over-engineering. You have a product mindset: You don t just build pipelines; you care about how the end-users (business teams) interact with the data. Build the Foundation: Architect, build, and scale our modern data stack from the ground up, starting with our first centralized data warehouse. Pipeline Engineering: Design and develop robust, scalable ETL/ELT pipelines to ingest data from various internal and external sources. Data Modeling & Governance: Establish clean, reliable data models and ensure data quality, integrity, and documentation across the board. Analytics & Visualization: Design and build intuitive Power BI dashboards that provide actionable insights to business leaders and stakeholders. Predictive Capabilities: Leverage AI-driven analytics and machine learning tools to unlock advanced forecasting capabilities and predictive insights. Strategic Partnership: Collaborate directly with leadership and cross-functional teams to understand their data needs and translate them into technical solutions."
+"Data Engineer
+SQLI",N/A,Abu Dhabi - United Arab Emirates,3 - 8 Years,"Job Description
+Roles & Responsibilities
+Job Description
+As an experienced Data Engineer, you will be responsible for:
+Design, develop, and maintain robust and scalable ETL/ELT data pipelines using Databricks, Python , and SQL
+Integrate data from multiple sources (databases, files, APIs, etc.)
+Transform and clean the data to guarantee its quality and consistency
+Automate data processing tasks for efficient and reliable execution
+Implement monitoring and alert processes to ensure pipeline availability and health.
+Collaborating with data analysts and data scientists to understand their data needs and provide them with high-quality data
+Document data pipelines and processes clearly and concisely
+Stay up-to-date on the latest technologies and trends in Big Data and data analytics."
+"Senior Data Engineer
+Nawy",N/A,Abu Dhabi - United Arab Emirates,3 - 8 Years,"Job Description
+Roles & Responsibilities
+Collaborate with data scientists, analysts, and other stakeholders to understand data requirements and design appropriate solutions. Work closely with IT and infrastructure teams to deploy and maintain data storage and processing systems, including databases, data warehouses, and cloud infrastructure. Design, build, and maintain robust, scalable data pipelines to ingest, process, and transform data from various sources, including internal databases and external APIs. Optimize data pipelines for performance, scalability, and reliability, ensuring timely and accurate delivery of data. Implement data validation and quality checks to identify and rectify any issues in data pipelines, ensuring data integrity. Explore and evaluate new technologies, tools, and frameworks to improve data engineering processes and capabilities. Perform data modeling and schema design to support analytical and reporting requirements. Design and build data marts and business layers to facilitate efficient data access and analysis."
+"Senior Data Engineer
+Bosta",Bosta,Jeddah - Saudi Arabia,5 - 10 Years,"Job Description
+Roles & Responsibilities
+We re rebuilding Bosta s data platform end-to-end: from MongoDB at the source, through a governed semantic layer that LLM-native tools (NL-to-SQL agents, AI analysts, embedded copilots) can sit on top of safely and cheaply. You will help own that rebuild.This is a hands-on role. You ll set patterns, write the foundational code, and ship across the stack from CDC and ingestion through dbt, the semantic layer, and the interfaces that BI tools and AI agents consume.
+Job Responsibilities
+End-to-end pipeline work: MongoDB CDC ingestion lakehouse warehouse dbt semantic layer BI/AI consumers
+Co-ownership of architecture decisions with the Data Engineering Lead
+CDC from production MongoDB without degrading operational DB performance; ingestion patterns that make adding a new source a config change, not a project
+Orchestration that s observable end-to-end (Airflow, Dagster, or Prefect)
+The dbt project: structure, conventions, tests, contracts, exposures, CI
+The semantic / metrics layer (dbt Semantic Layer, Cube, or equivalent) one canonical definition per business metric
+LLM-readiness: column-level documentation, PII tagging, query cost guardrails, materialized metric tables, and evals on AI-generated SQL
+Migration of existing logic out of the Tableau and Metabase sprawl into modeled, governed sources"
+"Cloudera Data Engineer
+Midis Group",N/A,"Wakra , Doha - Qatar",5 - 10 Years,"Job Description
+Roles & Responsibilities
+Job Title
+Cloudera Data Engineer
+Job Scope
+We are seeking an experienced Cloudera Data Engineer with strong hands-on expertise in Cloudera CDP, Hadoop, Spark, Hive, and HDFS . The ideal candidate will be responsible for building and maintaining big data pipelines, optimizing data workflows, and supporting production environments to ensure reliability and performance.
+Main Duties and Responsibilities
+•
+Design, build, and maintain big data pipelines using Cloudera CDP components.
+•
+Develop and optimize ETL/ELT workflows using Spark, Hive, and Hadoop ecosystems.
+•
+Manage and maintain HDFS storage, ensuring high availability and performance.
+•
+Perform production support activities, including issue resolution, monitoring, and performance tuning.
+•
+Work with data scientists, analysts, and other engineering teams to support data-driven initiatives.
+•
+Ensure data governance, security, and compliance across big data environments.
+•
+Troubleshoot cluster-level issues related to resource utilization, scheduling, and configuration.
+•
+Participate in solution design, architecture discussions, and technical documentation.
+Position Requirements
+•
+Strong hands-on experience with Cloudera CDP .
+•
+Proficiency in Hadoop ecosystem : HDFS, YARN, MapReduce, Hive, Impala.
+•
+Strong experience working with Apache Spark (PySpark or Scala preferred).
+•
+Solid understanding of distributed systems and big data architecture.
+•
+Experience with production support and troubleshooting in big data environments.
+•
+Strong SQL skills and experience optimizing large-scale queries.
+•
+Familiarity with Linux, shell scripting, and automation tools.
+•
+Experience with version control (Git) and CI/CD workflows is a plus.
+Education
+Bachelor's degree in Computer Science or any other related field
+Experience
+•
+Experience with cloud platforms (AWS, Azure, GCP) for big data workloads.
+•
+Exposure to Kafka, NiFi, Oozie, or similar data orchestration tools.
+•
+Knowledge of Docker, Kubernetes, or containerized environments.
+•
+Understanding of security, encryption, and data governance concepts.
+• #LI-GA2"
+"Microsoft Fabric Data Engineer
+Sucafina",N/A,Abu Dhabi - United Arab Emirates (UAE),5 - 10 Years,"Job Description
+Roles & Responsibilities
+Job Description Role Overview: The Microsoft Fabric Data Engineer is responsible for designing, building, optimizing, and operating enterprise-scale data platforms on Microsoft Fabric. This role focuses on data ingestion, transformation, storage, governance, automation, and platform reliability using OneLake, Lakehouse, Data Warehouse, Data Pipelines, and Spark technologies. The position is heavily focused on Data Engineering and Platform Engineering rather than reporting and dashboard development. The successful candidate will build scalable, governed, and high-performance data solutions that support analytics, AI, operational reporting, and business intelligence initiatives across the organization. This role is primarily focused on Data Engineering, Data Platform Development, and Microsoft Fabric architecture. Candidates whose experience is primarily centered around Power BI report development, dashboard creation, or data visualization without substantial Data Engineering experience may not be a fit for this position.
+Key Responsibilities
+Data Engineering & Platform Development Design and implement enterprise-scale Lakehouse architectures using OneLake and Delta Lake. Build and maintain robust batch, incremental, CDC, and near real-time data ingestion pipelines. Develop scalable ETL/ELT solutions using Fabric Data Pipelines, Dataflows Gen2, PySpark, and SQL. Implement and manage Medallion Architecture (Bronze, Silver, Gold). Develop reusable and metadata-driven ingestion and transformation frameworks. Integrate data from ERP systems, SAP, REST APIs, SQL Server, Dataverse, and other enterprise applications. Design and maintain enterprise data models supporting analytical and operational workloads.
+Fabric Engineering & Optimization Develop and optimize Fabric Lakehouses and Data Warehouses. Build advanced Notebook-based transformations utilizing PySpark and Spark SQL. Implement Delta Lake capabilities including: Merge/Upsert Change Data Feed (CDF) Time Travel Schema Evolution Optimize Vacuum Design scalable storage, partitioning, and file management strategies within OneLake. Optimize Spark workloads and Data Warehouse performance.
+Performance, Reliability & Monitoring Tune large-scale Spark and SQL workloads. Implement monitoring, alerting, and operational dashboards using Fabric Monitoring Hub and Metrics. Conduct performance testing and scalability assessments. Troubleshoot pipeline failures and platform performance bottlenecks. Define and monitor SLAs for critical data assets and pipelines. Ensure high availability and operational excellence across data workloads.
+DevOps & Platform Automation Implement CI/CD using Fabric Git Integration and Deployment Pipelines. Build automated deployment processes across Development, Test, and Production environments. Develop automated testing frameworks for data quality, schema validation, and regression testing. Manage environment configurations, secrets, and deployment parameters. Utilize Azure DevOps or GitHub Actions to support release automation and governance. Define rollback, release management, and change control processes.
+Data Quality, Governance & Security Implement automated data quality validation frameworks. Develop reconciliation, completeness, and consistency checks. Manage data lineage, metadata, and documentation standards. Implement sensitivity labels, access controls, auditing, and compliance requirements. Ensure adherence to organizational standards for governance, security, retention, and PII handling. Manage workspace permissions, Managed Identities, RLS, and CLS where required.
+Technical Leadership & Collaboration Translate business requirements into scalable technical solutions. Collaborate with Data Architects, Data Analysts, Integration Engineers, and business stakeholders. Lead engineering best practices and platform standards. Mentor junior engineers and support knowledge-sharing initiatives. Produce architecture documentation and technical design specifications. Drive continuous improvement of the data platform and engineering practices."
+"Data Engineer
+Client of Involved Solutions",N/A,Abu Dhabi - United Arab Emirates,3 - 8 Years,"Job Description
+Roles & Responsibilities
+We have partnered with a high-growth technology business in the UAE to hire a Data Engineer. This is a business where data infrastructure is taken seriously and the people building it are given the tools, autonomy and scope to do it properly. If you are five years into your data engineering career and looking for a role where you can level up technically while working on problems that actually matter, this is worth your attention. This role suits an engineer who cares as much about reliability and data quality as they do about throughput, and who wants to work in an environment that shares those values.
+About the role:
+Design, build and maintain scalable data pipelines that move, transform and serve data across the business in both batch and streaming environments
+Own the development and continuous improvement of the data platform, ensuring reliability, performance and scalability as the business grows
+Work closely with data scientists, analysts and AI engineers to ensure clean, well-structured data is available where and when it is needed
+Implement data quality frameworks, testing practices and observability tooling that keep pipelines trustworthy in production
+Contribute to data modelling and architecture decisions, building infrastructure that scales with the ambitions of the business
+Support the AI and ML agenda by designing data infrastructure that feeds model training, feature engineering and inference pipelines"
+"Data Engineer (AMI)
+Client of Angel Gulf Jobs",N/A,Dubai - United Arab Emirates,1 - 6 Years,"Job Description
+Roles & Responsibilities
+We are hiring a Data Engineer (AMI) to manage, process, and optimize Advanced Metering Infrastructure (AMI) data. The candidate will be responsible for building data pipelines, ensuring data quality, and supporting analytics for smart metering operations. Key Responsibilities: Develop and maintain AMI data pipelines and ETL processes. Manage and optimize AMI databases and data integration. Ensure data accuracy, quality, and system performance. Support reporting, analytics, and business intelligence requirements. Collaborate with AMI, IT, and utility teams to resolve data-related issues."
+"Senior Data Analyst / Data Engineer
+BlackStone eIT",N/A,Abu Dhabi - United Arab Emirates (UAE),5 - 10 Years,"Job Description
+Roles & Responsibilities
+Design, build, and optimize robust ETL/ELT data pipelines from multiple data sources. Maintain cloud data warehouses (e.g., Snowflake, BigQuery, Redshift) and data lakes. Implement data governance, validation checks, and error-handling routines. Query large datasets using complex SQL and Python to extract business value. Create automated dashboards and BI reports (Tableau, Power BI) for stakeholders."
+"Data Engineer
+Intelligent Systems ISYS",N/A,Abu Dhabi - United Arab Emirates (UAE),5 - 10 Years,"Job Description
+Roles & Responsibilities
+We are looking for a data engineer with experience in big data projects who have an appreciation of frontend technologies & is interested in working across multiple projects. You will play a critical role in building and maintaining applications for data & analytics projects and products we provide to our clients. As we specialize in data and analytics, we are looking for developers who are excited by the ability to work across different problems, projects and clients and who genuinely cares about the end to end data space (including engineering, science, quality, analytics and BI). These are client-facing roles, focused on helping clients solve operational problems, using data and analytics. An integral part of our data team, you will be happy to use modern tools to solve old legacy problems. Dealing with ambiguity is a critical part of the job, as well as helping the client and internal team focus on specific problem statements and use cases."
+"Senior Data Engineer
+BlackStone eIT",N/A,Abu Dhabi - United Arab Emirates,5 - 10 Years,"Job Description
+Roles & Responsibilities
+Key Responsibilities
+Data Architecture Design : Contribute to the design of scalable and secure data solutions, ensuring alignment with business and technical needs.
+ETL/ELT Pipeline Development : Develop and optimize efficient pipelines to ingest, transform, and load data from diverse sources into structured formats for analytics.
+Data Source Analysis : Analyze structured and unstructured data sources, recommending strategies for ingestion, processing, and classification.
+Data Layer Development : Assist in building a robust data layer that supports both batch and real-time processing.
+Data Ingestion & Cleansing : Implement strategies for validating and cleansing data to ensure quality and compliance with governance policies.
+Query Optimization : Write and optimize SQL queries to improve performance and efficiency across large datasets.
+Data Migration : Support migration projects from legacy systems to cloud platforms, ensuring accuracy and minimal downtime.
+Performance Monitoring : Monitor data workflows, troubleshoot bottlenecks, and propose improvements.
+Collaboration : Work closely with analysts, scientists, and business teams to translate requirements into data models.
+Data Governance & Security : Apply governance standards and security best practices, ensuring compliance with regulations (e.g., GDPR).
+Continuous Learning : Stay updated on emerging tools and practices, contributing to team innovation and improvement."
+"Mid/Senior Data Engineer
+Yassir",N/A,Dubai - United Arab Emirates,1 - 5 Years,"Job Description
+Roles & Responsibilities
+
+Responsibilities
+Build a centralized data lake on GCP data services by integrating diverse data sources throughout the enterprise.
+Develop, maintain, and optimize Spark-powered batch and streaming data processing pipelines. Leverage GCP data services for complex data engineering tasks and ensure smooth integration with other platform components.
+Design and implement data validation and quality checks to ensure accuracy, completeness and consistency across our data workflows.
+Work closely with the AI / ML team to enable AI use cases and in particular address data needs for Machine Learning model development and monitoring.
+Collaborate with cross-functional teams, including Data Analysts and other business users from Operations, Marketing and Commercial departments, to extract valuable insights and enable data-driven decision making.
+Collaborate with the Product teams to design, implement, and maintain the data models for analytical use cases.
+Engage in technology exploration and research, the development of PoC s, conducting deep investigations.
+Design and manage ETL/ELT processes, ensuring data integrity, availability, and performance.
+Troubleshoot data issues and conduct root cause analysis when reporting data is in question.
+Work on Gen AI related initiatives aligned with the company goals.
+Required Technical Skills
+PySpark - Batch and Streaming
+GCP - Dataproc, Dataflow, DataStream, Dataplex, Pub/Sub, BigQuery and Cloud Storage
+NoSQL (preferably MongoDB)
+Programming languages: Scala/Python
+Great Expectation, or similar DQ framework
+Familiarity with workflow management tools like: Airflow, Prefect or Luigi
+Understanding of Data Governance, Data Warehousing and Data Modelling
+Good SQL knowledge
+Business
+Able to communicate effectively, distill technical knowledge into digestible messages in a succinct / visual way
+Proactively identify and contribute with team development initiatives, and supporting junior members
+Good to have skills
+Infrastructure-as-Code, preferably Terraform
+Docker and Kubernetes
+Looker
+AI / ML engineering knowledge
+Lineage, or relevant tools e.g. Atlan"
+"Mid/Senior Data Engineer
+Yassir",N/A,Dubai - United Arab Emirates,4 - 11 Years,"Job Description
+Roles & Responsibilities
+Responsibilities
+Build a centralized data lake on GCP data services by integrating diverse data sources throughout the enterprise.
+Develop, maintain, and optimize Spark-powered batch and streaming data processing pipelines.
+Leverage GCP data services for complex data engineering tasks and ensure smooth integration with other platform components.
+Design and implement data validation and quality checks to ensure accuracy, completeness and consistency across our data workflows.
+Work closely with the AI / ML team to enable AI use cases and in particular address data needs for Machine Learning model development and monitoring.
+Collaborate with cross-functional teams, including Data Analysts and other business users from Operations, Marketing and Commercial departments, to extract valuable insights and enable data-driven decision making.
+Collaborate with the Product teams to design, implement, and maintain the data models for analytical use cases.
+Engage in technology exploration and research, the development of PoC s, conducting deep investigations.
+Design and manage ETL/ELT processes, ensuring data integrity, availability, and performance.
+Troubleshoot data issues and conduct root cause analysis when reporting data is in question.
+Work on Gen AI related initiatives aligned with the company goals.
+Required Technical Skills
+PySpark - Batch and Streaming
+GCP - Dataproc, Dataflow, DataStream, Dataplex, Pub/Sub, BigQuery and Cloud Storage
+NoSQL (preferably MongoDB)
+Programming languages: Scala/Python
+Great Expectation, or similar DQ framework
+Familiarity with workflow management tools like: Airflow, Prefect or Luigi
+Understanding of Data Governance, Data Warehousing and Data Modelling
+Good SQL knowledge
+Business
+Able to communicate effectively, distill technical knowledge into digestible messages in a succinct / visual way
+Proactively identify and contribute with team development initiatives, and supporting junior members
+Good to have skills
+Infrastructure-as-Code, preferably Terraform
+Docker and Kubernetes
+Looker
+AI / ML engineering knowledge
+Lineage, or relevant tools e.g. Atlan
+DBT"
+"Technical Data Engineer
+Apgar Group",N/A,Dubai - United Arab Emirates,1 - 5 Years,"Job Description
+Roles & Responsibilities
+External missions
+You will be working on all the steps of Data Management solutions implementation
+You will take part in the design and the definition of the solutions’ architecture
+You will implement the solution and define its operating rules
+You will take part in creating models in collaboration with functional consultants
+You will be in charge of suggesting, studying and validating technical solutions
+You will assist the client in the set up and administration of the solution in its cloud or on-premises environment, while setting up methodologies and DEVOPS processes
+
+R&D and internal missions
+You will take part in the design and development of software components that will be incremented into market tools
+You will take part in technical knowledge capitalization (speed up development, improve maintainability, smoothen reuse)
+You will have to test solutions from new software editors in new scopes in order to build up our new offers
+Depending on your career path wishes and desires, you will have the opportunity to move towards a position of a confirmed technical data engineer.
+We guarantee a team development process and the implementation of a personalized follow-up for your career progress. We will be keen to provide you with an appropriate framework to help you evolve with serenity.
+
+Skills required
+Development: good grasp of JAVA/J2EE environments
+Databases: SQL Server, Oracle, , PostgreSQL, Hadoop/Spark/Amazon EMR/ Dynamo DB
+Methodology: continuous integration and release management in an iterative and agile way (Jira/Maven/Bamboo/TFS/Jenkins)
+A previous experience related to one of our offers (MDM, Meta data, Data Integration and Data Preparation) would be a great advantage
+Required profile
+Master’s degree or equivalent
+Freshly graduated with good knowledge in these fields: (or looking for a paid internship or an end of year project)
+A previous experience related to one of our offers (MDM, Meta data, Data Integration and Data Preparation) would be a great advantage"
+"Data Engineer
+SQLI",N/A,"Casablanca - Morocco , Rabat - Morocco",3 - 6 Years,"Job Description
+Roles & Responsibilities
+Job Description
+We are looking for a Senior Data Engineer to join our teams in Rabat and Casablanca and participate in the development and maintenance of our Data Warehouse solutions. The successful candidate will be responsible for the design, development, and implementation of data pipelines.
+Responsabilit s :
+Design, develop and deploy data pipelines for our Data solutions using PySpark, Azure Data Factory and Azure Databricks, ensuring data quality and reliability.
+Optimize the performance of data processing and queries.
+Collaborating closely with the business teams to understand the requirements and functional needs.
+Participate in technology monitoring and propose continuous improvements to optimize Data Warehouse processes and solutions.
+Ensure complete documentation of architectures, solutions and data flows."
+"PRINCIPAL DATA ENGINEER
+Commercial International Bank",N/A,Abu Dhabi - United Arab Emirates (UAE),5 - 10 Years,"Job Description
+Roles & Responsibilities
+Develop and maintain Big data & Data warehouse models and enrich them with required data across the organization and ensure proper storage of data assets; also will ensure the proper delivery of required data elements for either reporting or application needs.
+Data Modelling
+Work with DWH & Big Data engineers to practice the proposed Data Architecture
+Create logical & Physical data model for the required data structures using client's modelling standards and standard ERWin modelling tools.
+Effectively support in applying the process of data mapping between source systems and Enterprise Data Warehouse (EDW) and from EDW to different integrated systems.
+Data Transformation (Extract, Transform, and Load ETL )
+Apply different data integration & ETL techniques between data sources and EDW and from EDW to different integrated systems
+Practice the best approaches to use for data integration & transformation
+Data Consumption
+Analyse different application data needs from EDW
+Practice the best approaches to use for applications data integration with EDW
+Data Development
+Practice Hadoop and big data technology stack for better data development.
+Design data integration and distribution across Hadoop nodes
+Responsible for applying best data movements techniques from and to Hadoop.
+Controls
+Adhere to the guiding principles of data warehousing & Big Data and Data Governance policy.
+Support the Principle in Developing a feedback loop with data science and EPM/ERM team to constantly enhance data structure
+Support in Setting data standards and procedures as part of the Data Counsel to ensure enterprise-wide quality and integration.
+Monitor and enforce data policies, procedures and standards.
+Identify gaps in compliance and work with data owners/custodians to put plans in place to close identified gaps.
+Policies, Processes and Procedures
+Follow all relevant department policies, processes, standard operating procedures and instructions so that work is carried out in a controlled and consistent manner
+Day-to-day operations
+Implement the day-to-day operations assigned for the Data Architecture department to ensure compliance with the established standards and procedures
+Compliance
+Comply with all relevant CBE regulations, banking laws, AML regulations and internal CIB policies and code of conduct in order to maintain CIB s sound legal position and mitigate any potential risks"
+"Senior Talend Data Engineer
+SQLI",N/A,Saudi Arabia - Saudi Arabia,1 - 6 Years,"Job Description
+Roles & Responsibilities
+Job Description
+We are looking for a passionate Talend Engineer to join our team.
+As part of ambitious digital transformation projects, you will be responsible for designing, developing and deploying high-performance data integration solutions.
+You will work within a dynamic team, collaborating with experts to ensure the success of our projects.
+Your responsibilities:
+Data routing:
+Gather the business needs of the different companies.
+D. Develop technical solutions for data collection
+Developing technical solutions for data storage
+Perform unit and integration tests.
+Data provision:
+To industrialize and automate data cleaning according to the selected specifications.
+Manage, maintain, and document data flows
+Ensure production monitoring and maintenance.
+Monitoring of development projects:
+establish the technical specifications based on the needs analysis.
+Report the activity to the project manager."
+"Data Engineer JAVA KAFKA
+SQLI",N/A,Muscat - Oman,4 - 9 Years,"Job Description
+Roles & Responsibilities
+Job Description
+As a Java Kafka Data Engineer, your main responsibilities will be as follows:
+Design, develop and maintain solutions for processing and managing large datasets on distributed architectures.
+Participate in the implementation of data pipelines using Kafka for real-time data integration and distribution.
+Develop Java applications for streaming and batch data processing.
+Ensure the implementation of processes for optimizing and automating data flows.
+To guarantee the quality, performance and scalability of applications by producing reliable and efficient code.
+Working closely with the Data and DevOps teams to design suitable architectures and optimize system performance.
+Participate in the evolution of the data infrastructure by providing continuous improvements and integrating new technologies.
+Provide support and resolution of technical incidents in production related to data processing.
+Write the technical documentation and specifications for the solutions implemented.
+Required skills:
+Comp tences techniques :
+Mastery of the Java language and best development practices.
+Solid experience with Kafka (topic management, producers, consumers, Kafka Streams, etc.).
+Knowledge of distributed data architecture concepts.
+Experience with data processing frameworks (e.g., Apache Spark, Flink, etc.) is a plus.
+Ma trise des bases de donn es SQL et NoSQL (ex : PostgreSQL, MongoDB, Cassandra, etc.).
+Knowledge of continuous integration tools and DevOps practices (Docker, Kubernetes, CI/CD).
+Good understanding of distributed systems and the challenges of scalability and high availability.
+Knowledge of big data and cloud computing (AWS, GCP, Azure) would be a plus.
+Comp tences non techniques :
+Ability to work in a team and collaborate with different technical profiles (data scientists, devops, etc.).
+Autonomy and rigor in the management of tasks and projects.
+Good analytical skills and ability to solve complex problems.
+A sense of innovation and curiosity for new technologies.
+Excellent communication."
+"GCP (Google Cloud Platform) Data Engineer
+SQLI",N/A,Abu Dhabi - United Arab Emirates,3 - 8 Years,"Job Description
+Roles & Responsibilities
+Job Description
+We are looking for a GCP (Google Cloud Platform) Data Engineer to join our rapidly growing team.
+In this key role, you will be responsible for the management, optimization and implementation of data solutions on GCP, thus contributing to strategic digital transformation projects.
+You will work closely with architects, data scientists and development teams to build scalable, secure and high-performance data architectures.
+Your responsibilities:
+Design and deployment of cloud solutions : Design, deploy and maintain robust data solutions on Google Cloud Platform (BigQuery, Cloud Storage, Dataflow, Pub/Sub, etc.).
+Data pipeline management : Setting up and automating data integration, processing and transformation pipelines using GCP tools and associated technologies.
+Performance optimization : Ensuring the performance, scalability and security of data infrastructures on GCP.
+Collaboration and support : Work closely with internal teams to understand business needs and provide tailored data solutions. Provide technical support to development and data science teams.
+Technology watch : Keeping informed of the latest trends and innovations on Google Cloud, particularly in the field of data management and machine learning.
+Data quality management : Implement processes to ensure data quality, integrity, and security within the GCP infrastructure.
+Automation and infrastructure as code : Use tools like Terraform, Cloud Deployment Manager to automate the management of GCP infrastructure."
+"Senior Data Engineer
+SQLI",N/A,Dubai - United Arab Emirates (UAE),5 - 8 Years,"Job Description
+Roles & Responsibilities
+Job Description
+In this key role, you will be responsible for designing and implementing BI, Analytics, and Big Data solutions. You will provide valuable and timely data analytics and solutions to the business, verifying requirements, defining the architecture, and developing an implementation plan. You will also be responsible for designing solutions that meet business needs and exceed client expectations.
+
+Responsibilities and tasks:
+
+As a technical lead:
+Collaborating with the business solutions manager to implement data strategies and design data flows.
+To serve as a reference in development and ensure consistency with existing assets and data architectures.
+Perform complex data analyses and clearly communicate the procedure to follow.
+You are responsible for development:
+Provide other team members with clear updates on the progress of development, unit testing, and documentation of developed data pipelines.
+Ensure the quality of the developed code and compliance with guidelines.
+Experience with Azure-based data solution architectures, the software development lifecycle (including Agile & Waterfall), data engineering and ETL tools/platforms, and data modeling practices.
+You develop and document the standards and methodologies surrounding the data platform, ensuring the security of knowledge and know-how:
+Maintain the integration documentation.
+Provide a critical judgment on the effectiveness of the data model based on your experience and best practices.
+Ensure that validation processes are followed."
+"Data Engineer MS Fabric PySpark (H/F)
+SQLI",N/A,Abu Dhabi - United Arab Emirates,3 - 8 Years,"Job Description
+Roles & Responsibilities
+Job Description
+As a Data Engineer, you will join our data team to participate in strategic data analysis projects and the implementation of large-scale data processing solutions. You will be responsible for the design, optimization, and development of data pipelines on cloud platforms, with a focus on the use of PySpark and Azure Data Factory .
+Your main responsibilities will be:
+Design, develop and maintain large-scale data pipelines using PySpark .
+Set up data flows with Azure Data Factory , integrating various data sources and destinations (SQL, Data Lakes, APIs, etc.).
+Ensure the integration of data from various systems in a cloud environment (Azure).
+Optimize the performance of data processing (SQL, PySpark, etc.).
+Collaborating with business teams, data analysts and data scientists to understand needs and propose effective and scalable solutions.
+Participate in defining the data architecture and governance strategy.
+Set up and monitor data processing jobs (error handling, performance management).
+Document the solutions implemented and follow best development practices.
+Participate in the continuous improvement of existing processes and tools."
+"Data Engineer DBT SQL
+Devoteam International",N/A,"Wakra , Doha - Qatar",5 - 10 Years,"Job Description
+Roles & Responsibilities
+Job Description: As a Senior Data Engineer, your role will be to design, code, test, and deploy data ingestion, processing, modeling, and valorization pipelines so that this data can be presented and visualized through web applications, using modern technologies. Your main responsibilities will include: Working in Data and Cloud environments, particularly GCP; Leveraging BigQuery and advanced SQL on large volumes of data; Integrating new LLM technologies into your development routine; Managing real-time streams with Pub/Sub; Automating data workflows via GitLab CI/CD and Docker Compose; Versioning code with Git; Collaborating in an agile environment (Scrum); and Data modeling and preparation: designing optimized pipelines in BigQuery, ensuring the quality, reliability, and consistency of analyses. Respect deadlines while maintaining high standards of quality and excellence. Communicate clearly and effectively in writing and orally in French for smooth interactions with the business and teams. Analyze situations and propose appropriate solutions while identifying areas for improvement. Actively collaborate with team members, share knowledge and foster a team spirit to achieve common goals. Apply a continuous improvement mindset to optimize practices and results."
+"Senior Data Engineer
+Mirai Arabian International Company Limited",N/A,"Wakra , Doha - Qatar",5 - 10 Years,"Job Description
+Roles & Responsibilities
+Our Generative AI products are only as good as the data behind them. This role owns that data layer from end to end: the pipelines that bring data in, the transformations that shape it, and the way it reaches retrieval systems, agents, and analytics. The work runs on AWS, and the aim is a single governed source that every consumer can rely on. We want someone who has already built data pipelines for AI systems, not only for reporting. Preparing data for an LLM or an agent brings its own work around chunking, embeddings, indexing, and keeping content current, and you have done it before. The team is small and spans several languages, so you will own your pipelines and help set the standards the rest of us follow.
+WHAT YOU WILL DO
+Build and run the batch and streaming pipelines that move data from source systems into the lake and through to the warehouse, owning the layers in between from raw to curated, along with their schema, quality, and lineage.
+Build the data layer behind retrieval: source connectors, document parsing, chunking, embedding generation, and vector indexing, including re-embedding when content changes.
+Model curated, query-ready datasets and metrics so AI and analytics consumers work from one definition instead of each rebuilding the logic.
+Add quality checks, validation, and monitoring so problems surface before they reach a model or a user.
+Apply access control where it belongs: row and column level rules, PII handling, and entitlement-aware datasets, enforced as close to query time as the stack allows.
+Work with the platform and DevOps engineers to expose data and retrieval as documented, dependable services.
+Keep storage, compute, and query costs in check, with particular attention to the cost of embedding and vector workloads
+Review code, write the documentation, and help shape how the team builds its data layer."
+"Data Engineer
+Fixed Misr (FEDIS)",N/A,Beirut - Lebanon,1 - 3 Years,"Job Description
+Roles & Responsibilities
+Design, develop, and maintain scalable data pipelines and ETL/ELT processes.
+Build and optimize data architectures, data models, and data warehouses.
+Integrate data from multiple sources (APIs, databases, third-party platforms).
+Ensure data reliability, consistency, and integrity across systems.
+Develop batch and real-time data processing solutions.
+Optimize query performance and pipeline efficiency.
+Implement data validation, monitoring, and error handling mechanisms.
+Work closely with data analysts, BI developers, and product teams to support reporting and analytics.
+Prepare datasets for dashboards, business intelligence tools, and machine learning models.
+Translate business requirements into technical data solutions.
+Implement data governance policies, access controls, and security practices.
+Maintain documentation for data pipelines, schemas, and workflows.
+Ensure compliance with data privacy and protection standards."
+"Data Engineer (Mid/Senior)
+Yassir",N/A,Abu Dhabi - United Arab Emirates,3 - 8 Years,"Job Description
+Roles & Responsibilities
+What you ll do
+Build a centralized data lake on GCP Data services by integrating diverse data sources throughout the enterprise.
+Develop, maintain, and optimize SPARK-powered batch and streaming data processing pipelines. Leverage GCP data services for complex data engineering tasks and ensure smooth integration with other platform components
+Design and implement data validation and quality checks to ensure data's accuracy, completeness, and consistency as it flows through the pipelines.
+Work with the Data Science and Machine Learning teams to engage in advanced analytics.
+Collaborate with cross-functional teams, including data analysts, business users, and operational and marketing teams, to extract insights and value from data.
+Collaborate with the product team to design, implement, and maintain the data models for analytical use cases.
+Design, develop, and upkeep data dashboards for various teams using Looker Studio.
+Engage in technology explorations, research and development, POC s, and conduct deep investigations and troubleshooting.
+Design and manage ETL/ELT processes, ensuring data integrity, availability, and performance.
+Troubleshoot data issues and conduct root cause analysis when reporting data is in question.
+Required Technical Skills
+PySpark
+GCP - Big Query, Dataproc, Dataflow, Dataplex, Pub-Sub and Cloud Storage
+Advanced SQL knowledge
+NoSQL (Preferably MongoDB)
+Programming languages - Scala/Python
+Great Expectation - similar DQ framework
+Familiarity with workflow management tools like Airflow, Prefect or Luigi.
+Understanding of Data Governance, DWH, and Data Modelling
+Good to have skills
+Infrastructure as Code - Terraform
+Docker and Kubernetes
+Looker Studio
+AI and ML engineering knowledge"
+"Pavement Data Engineer
+Client of Guildhall",N/A,"Wakra , Doha - Qatar",5 - 10 Years,"Job Description
+Roles & Responsibilities
+About the Role Guildhall is hiring for an infrastructure operator running a multi-year road operations and maintenance contract in the GCC. The person in this seat will own pavement condition data end to end pulling from ARAN and LCMS survey systems and turning it into the maintenance schedules that keep a live road network in spec. The contract is in an active phase, and the client needs pavement data capability in place now to establish the condition baseline. It is a rare seat: full ownership of the data layer behind a decade-long O&M programme, not a short survey assignment.
+The role Own pavement condition data analysis across a live, long-term road O&M contract in the GCC. Manage large datasets from ARAN and LCMS pavement survey systems Validate survey data for accuracy and consistency before it reaches planning Convert condition data into maintenance prioritisation and technical reports Coordinate with engineering and O&M teams on maintenance recommendations
+Why apply through Guildhall Boutique executive search firm in Dubai, established 2010 8x independent industry awards since 2020 4.9-star Google rating from over 250 reviews Direct access to the retained consultant running this search Hiring a Pavement Data Engineer in Qatar Pavement Data Engineers sit inside road operations and maintenance contracts, usually reporting to an O&M or asset management lead. They own the pavement condition dataset collected through systems such as ARAN and LCMS and turn it into the maintenance plan that keeps a road network within its contracted performance standard. As GCC governments move more road networks onto long-term O&M contracts, demand for engineers who can run this data pipeline, rather than just collect the survey, has grown. Most hires come from a pavement engineering or road asset management background with several years on live O&M projects. Common questions"
+"Senior Data Engineer (Flink)
+SSC Egypt",N/A,Dubai - United Arab Emirates (UAE),4 - 9 Years,"Job Description
+Roles & Responsibilities
+Builds and runs real time streaming pipelines, keeping latency low and jobs recoverable at high volume. Strong hands on Apache Flink across DataStream API and Flink SQL. Event time processing, checkpointing, savepoints, and state management in production. High volume Kafka streaming. Data modelling for analytics and streaming into a lakehouse. Monitors pipeline health and handles recovery when jobs fail."
+"Data Engineer - DMP, Streaming & Analytics
+Yassir",N/A,Abu Dhabi - United Arab Emirates (UAE),5 - 10 Years,"Job Description
+Roles & Responsibilities
+We are building a highly resilient advertising platform with a very lean, senior internal team, and we intend to keep it that way. To achieve scale without the overhead of a large engineering department, we rely on an AI-first development paradigm and a philosophy borrowed from the best large-scale open-source projects. Our code is not public, but our governance is theirs: asynchronous communication, exhaustive written documentation, explicit rules, and uncompromising quality gates. It is the only way a small team of humans and AI agents ships serious systems without accumulating technical debt. This role owns the data engine underneath the platform: the streams, segments and audiences that make advertising intelligent.
+The Role
+You will own the data and DMP layer end to end the event streams flowing in, the segment and audience computation, and the analytical stores that feed targeting and reporting. What we hire for is judgment: the problems here are hard in the interesting way, and the interesting part is the tradeoffs you choose.
+1. Hard problems, at real-time scale.
+Computing audiences and measurement over very large, high-velocity event streams, in near-real-time, where being right is not always the same as being exact and every choice has a real cost. We describe the problems; we expect you to bring the approach.
+2. Stream-First Pipeline.
+Own the ingestion and processing pipeline. It is stream-first by design; you keep it that way rather than falling back to batch.
+3. Segments & Audiences.
+Own how raw signals become targetable audiences how they are computed, stored, refreshed, and exposed to the serving path. This is the intelligence layer of the product.
+4. AI-First Delivery & Governance.
+We expect AI to write most of the code; you are the editor, not the typist. You specify work as explicit, self-sufficient issues, direct agentic tooling to implement, and gatekeep every diff. Schemas, data contracts and Architecture Decision Records are documented. If it is not written down, it does not exist.
+The Tech Environment
+Data: event streaming and stream processing, relational and analytical stores.
+Language: the codebase is a compiled systems language; we care more about how you reason about data than about the language you arrive with.
+Domain: DMP, segments, audiences, identity, measurement.
+Cloud: Google Cloud Platform, Kubernetes."
+"Senior Data Engineer
+Flairstech",N/A,"Wakra , Doha - Qatar",5 - 10 Years,"Job Description
+Roles & Responsibilities
+Support and maintain Informatica Axon and Informatica IDQ platforms. Troubleshoot and resolve DEI / Cloudera Hive performance issues. Implement security remediation and platform hardening activities. Support SAML, MFA, session management, and governance controls. Handle audit findings, compliance requirements, and security recommendations. Upgrade vulnerable third-party libraries and improve platform security posture. Collaborate with governance, infrastructure, security, and data teams. Ensure data quality and governance best practices are implemented across the platform. Participate in troubleshooting, root cause analysis, and issue resolution. Support production environments and critical enterprise initiatives.
+Technical Requirements
+Strong hands-on experience with Informatica IDQ
+Experience with Informatica Axon
+Experience with Informatica EDC is highly preferred
+Good understanding of Informatica DEI / Big Data Management
+Experience with Cloudera Hive / Hadoop environments
+Strong knowledge of Data Governance and Data Quality concepts
+Experience with SAML and MFA integrations
+Understanding of application security remediation and platform hardening
+Experience handling audits, compliance, and governance controls
+Familiarity with enterprise or banking environments is preferred
+Strong troubleshooting and performance tuning skills"
+"Data Engineer
+SQLI",N/A,Abu Dhabi - United Arab Emirates,3 - 8 Years,"Job Description
+Roles & Responsibilities
+Job Description
+As a Data Consultant, you will join a Scrum team and focus on a specific functional area. Your role will be to contribute to data projects by providing your expertise on the following tasks:
+
+Participate in the execution of all business projects;
+Handle correction requests arising from incidents or anomalies;
+Participate in the self-training and skills development of the development team; Apply best practices and development standards;
+Implement DevOps methodologies;
+Contribute to usage estimates and release planning;
+Contribute to delivery automation
+; Develop and document your code;
+Work within a Scrum team (Product Owner, Developers, QA, Support)."
+"Data Engineer
+Midis Group",N/A,Cairo - Egypt,0 - 3 Years,"Job Description
+Roles & Responsibilities
+Main Duties and Responsibilities
+Design and build data pipelines to collect, store and process large and complex data sets from various sources including data ingestion, data cleansing, data validation and data transformation
+Work on Big-Data ecosystem including Hadoop, HDFS, Spark, Spark SQL, Hive, Impala, Talend and CFM
+Implement data storage and processing technologies such as data lakes, data warehouses and NoSQL databases to support data analytics and machine learning
+Optimize data pipeline performance, troubleshoot and debug related issues while monitoring data pipeline health
+Collaborate with Data Scientists and other stakeholders to understand data requirements and design data pipelines accordingly
+Create and maintain documentation for data pipelines, data models and data dictionaries
+Ensure data quality by implementing data validation and data cleansing processes
+Implement security measures to protect data and ensure compliance with regulations such as GDPR, HIPAA and PCI-DSS
+Research and evaluate new technologies and tools to improve data pipeline performance and scalability on a regular basis
+Apply performance optimization techniques and technical guidance to other Application Developers
+Provide advisory services for designing and implementing large, scalable distributed systems
+Use programming languages and technologies like Python, SQL, Java, Scala, Informatica, Hadoop, Spark and Hive
+Coordinate with multiple stakeholders on a regular basis."
+"Design Engineers KSA Riyad Data Center Construction Project
+PAARK BUSINESS CONSULTANTS",PAARK BUSINESS CONSULTANTS,Riyadh - Saudi Arabia,5 - 10 Years,"Job Description
+Roles & Responsibilities
+
+Riyadh Data Center Construction Project – Requirements
+Project Location: approximately 100 km from Riyadh, KSA
+Key Requirement:
+Candidates must have prior Data Center Design experience.
+Preference will be given to candidates currently residing in KSA.
+Candidates should have a Transferable Iqama.
+
+1. Electrical Lead
+Function: Design & Engineering
+Specialization: Electrical
+Nationality Preferred: Indian / Middle Eastern / Any
+Experience: 10–15 years
+Budget: SAR 20,240 per month
+
+2. Electrical Engineer
+Function: Design & Engineering
+Specialization: Electrical
+Nationality Preferred: Indian / Middle Eastern / Any
+Experience: 5–7 years
+Budget: SAR 13,200 per month
+
+3. Mechanical Lead
+Function: Design & Engineering
+Specialization: Mechanical
+Nationality Preferred: Indian / Middle Eastern / Any
+Experience: 10–15 years
+Budget: SAR 20,240 per month
+
+4. Mechanical Engineer
+Function: Design & Engineering
+Specialization: Mechanical
+Nationality Preferred: Indian / Middle Eastern / Any
+Experience: 5–7 years
+Budget: SAR 13,200 per month
+
+5. ELV Engineer
+Function: Design & Engineering
+Specialization: ELV
+Nationality Preferred: Indian / Middle Eastern / Any
+Experience: 8–10 years
+Budget: SAR 13,200 per month"
+"BTU Metering Engineer / Data Control Engineer (District Cooling)
+DYNAMIC EMPLOYMENT SERVICES L.L.C",DYNAMIC EMPLOYMENT SERVICES L.L.C,Sharjah - United Arab Emirates (UAE),3 - 7 Years,"Job Description
+Roles & Responsibilities
+Job Purpose 
+Responsible for managing and maintaining the District Cooling BTU metering system to ensure accurate energy measurement, reliable billing, and efficient system operation. The role requires knowledge of BTU metering systems, Meter Data Management (MDM), ERP platforms, and Microsoft Office applications. 
+
+Key Responsibilities 
+Operate and monitor the BTU Meter Data Management (MDM) system and prepare technical and MIS reports. 
+Analyse and validate BTU meter readings before validation to billing department. 
+Coordinate cooling service connections/disconnections with relevant departments. 
+Supervise BTU meter installation, inspection, testing, commissioning, and maintenance activities. 
+Operate ERP property creation and meter mounting in the system. 
+Monitor spare parts inventory and coordinate repairs and replacements. 
+Supervise assigned staff and ensure timely completion of projects and operational tasks. 
+Liaise with contractors, developers, consultants, and internal stakeholders on metering related matters. 
+Ensure compliance with company health, safety, environmental, and quality requirements."
+"Pricing Optimization Tool – Business Owner
+Lulu center - Sole Proprietorship LLC",Lulu center - Sole Proprietorship LLC,Dubai - United Arab Emirates (UAE),3 - 6 Years,"Job Description
+Roles & Responsibilities
+Price Optimization Platform Ownership
+● Own end-to-end operation of the central price optimization software (e.g Impact Analytics, Revionics, Vendavo, PROS, DemandTec, BlueYonder, TCS Optumera, Yieldigo, Pricefx or similar), including creation and maintenance of price plans, business rules, elasticity inputs, scenario analysis, optimization objectives : Be the Super user for the pricing tool.
+● Conduct regular audits of optimization model outputs; identify anomalies, data gaps, or model drift, and recalibrate parameters in response to market and seasonal changes.
+● Configure and maintain zone-based, channel-specific, and SKU-level pricing structures across offline and online channels, ensuring omnichannel price consistency where required.
+● Manage integration of the pricing tool with competitor intelligence feeds, ERP systems (e.g., SAP/Vistex), and BI platforms — partnering with data engineering teams to ensure clean, complete data flows.
+Data Analysis, Pricing Scenario Modelling & Commercial Execution
+● Design and analyse A/B pricing experiments and test-and-control frameworks to measure the causal impact of price interventions on volume, revenue, and margin ; and translate findings into iterative refinements.
+● Perform price sensitivity and cross-elasticity analysis at the category, subcategory, and SKU level to identify opportunities for range restructuring and price architecture optimization.
+● Support development and execution of pricing strategies across everyday pricing, promotions, markdowns, clearance, and new product introductions (NPI).
+● Partner with Category, Finance, and Commercial Operations teams to operationalize pricing decisions, maintain guardrails, and ensure adherence to centralized governance rules.
+Reporting, Documentation, Training & Stakeholder Communication
+● Produce regular pricing performance dashboards monthly covering price index vs. competitors, margin realization, optimization adoption rates, and KPI tracking.
+● Prepare executive-level presentations that synthesize pricing insights, highlight risks and opportunities, and communicate clear recommendations to senior leadership. Track and report on the commercial impact of pricing actions taken, feeding learnings back into the optimization model and pricing strategy.
+● Document pricing SOPs, system configurations, pricing rules, regional pricing rule differences, and model assumptions to enable knowledge transfer, onboarding, and audit readiness.
+● Create end user training materials, and train regional teams on the pricing tools, pricing methodology, and CI platforms.
+● Act as a point of escalation and SME for pricing tool queries across the business; liaise with vendor support teams on technical issues as needed."
+"HVAC Site Engineer (Data Center Construction)
+Branch of Sterling and Wilson Data Center Private",Branch of Sterling and Wilson Data Center Private,Riyadh - Saudi Arabia,8 - 10 Years,"Job Description
+Roles & Responsibilities
+Supervise and execute HVAC works as per approved drawings, specifications, method statements and project schedule.
+Manage installation of AHUs, FCUs, CRAC/CRAH units, chillers, pumps, cooling towers, ducting, piping, valves and associated equipment.
+Review IFC/shop drawings and coordinate with Civil, Electrical, Plumbing, Firefighting, ELV and BIM teams to resolve clashes and interfaces.
+Monitor HVAC subcontractors, manpower, materials, productivity and daily progress.
+Ensure proper installation of ducting, chilled-water piping, insulation, supports, equipment and associated services.
+Coordinate pressure testing, flushing, duct leakage testing, TAB and testing & commissioning activities.
+Ensure compliance with approved method statements, ITPs, QA/QC and HSE requirements.
+Raise/close WIR/IR, NCRs, punch points and inspection observations.
+Support HVAC pre-commissioning, commissioning and integrated testing, particularly for critical Data Center systems.
+Maintain progress reports, testing records, as-built drawings and handover documentation."
+"Data Analyst
+TalentKTM",TalentKTM,Dubai - United Arab Emirates,1 - 6 Years,"Job Description
+Roles & Responsibilities
+Transform raw data into actionable insights by employing advanced statistical techniques and data visualization tools.
+Collaborate with cross-functional teams to define data requirements and develop analytical solutions tailored to specific business needs.
+Design and maintain dashboards that provide real-time insights, ensuring stakeholders have access to key performance indicators.
+Conduct thorough data quality assessments to ensure accuracy and reliability of datasets used for analysis."
+"Senior AI/ML Engineer
+Dicetek LLC",Dicetek LLC,N/A,N/A,"Job Description
+Roles & Responsibilities
+AI & ML Engineering
+Develop, deploy, and optimize machine learning and deep learning models.
+Build AI solutions for NLP, computer vision, predictive analytics, and intelligent automation.
+Integrate AI services into enterprise applications and internal platforms.
+Generative AI
+Develop LLM-based applications, AI copilots, and RAG solutions.
+Implement prompt engineering, model evaluation, embeddings, and semantic search.
+Optimize model performance, scalability, and cost.
+Agentic AI
+Design and deploy autonomous and multi-agent AI systems.
+Develop agent orchestration, planning, reasoning, memory, and tool integration.
+Implement human-in-the-loop approvals and enterprise workflow automation.
+AI Operations (MLOps / LLMOps / AgentOps)
+Build CI/CD pipelines for AI models and agents.
+Monitor AI systems for performance, drift, hallucinations, security, and reliability.
+Manage model versioning, deployment, observability, and lifecycle operations.
+AI Governance & Responsible AI
+Implement AI governance, model risk management, and Responsible AI practices.
+Maintain model documentation, validation, audit readiness, and compliance.
+Ensure fairness, traceability, maintainability, privacy, and regulatory adherence.
+Agent Governance & Security
+Govern AI agent lifecycle, identity, access, and runtime controls.
+Implement guardrails, audit logging, and secure integration with enterprise systems.
+Protect AI solutions against prompt injection, data leakage, and adversarial attacks.
+Collaboration
+Work with business, engineering, security, and architecture teams to deliver AI solutions.
+Mentor team members and promote AI engineering standards and best practice
+Technical Skills
+AI & Machine Learning
+Machine Learning, Deep Learning, NLP, Computer Vision
+Predictive Analytics, Feature Engineering, Model Optimization
+Generative AI
+Large Language Models (LLMs)
+Retrieval-Augmented Generation (RAG)
+Prompt Engineering
+Embeddings and Semantic Search
+Fine-tuning Foundation Models
+Agentic AI
+Autonomous and Multi-Agent Systems
+Agent Orchestration
+Planning and Reasoning
+Memory Management
+Tool Calling
+Human-in-the-Loop (HITL)
+Model Context Protocol (MCP)
+Frameworks & Libraries
+PyTorch
+TensorFlow
+Scikit-learn
+Hugging Face
+LangChain
+LangGraph
+LlamaIndex
+AutoGen
+CrewAI
+Semantic Kernel
+Cloud & Infrastructure
+Microsoft Azure AI Foundry
+Azure Machine Learning
+AWS Bedrock
+Amazon SageMaker
+Google Vertex AI
+Docker
+Kubernetes
+Terraform
+Data & Integration
+SQL
+PostgreSQL
+MongoDB
+Apache Spark
+Vector Databases
+REST APIs
+FastAPI
+AI Operations
+MLflow
+Kubeflow
+Azure ML Pipelines
+GitHub Actions
+Azure DevOps
+AI Monitoring & Observability"
+"AML Technical Support & Data Specialist
+Dicetek LLC",Dicetek LLC,N/A,N/A,"Job Description
+Roles & Responsibilities
+Technical Analysis & Data Support
+Analyze source-to-target data mappings for customer, account, transaction, KYC, risk, alert, and case data.
+Develop and optimize Oracle SQL/PLSQL queries, reconciliation scripts, data-quality checks, and controlled data fixes.
+Troubleshoot ETL, file-transfer, API, database, and application-integration issues across upstream and downstream systems.
+Change Delivery & Testing
+Support requirement analysis, impact assessment, SIT, UAT, regression testing, release validation, and post-deployment checks.
+Prepare technical specifications, test evidence, deployment plans, rollback steps, operational procedures, and handover documents.
+Coordinate with Compliance, IT operations, infrastructure, database, integration, cybersecurity, and vendor teams.
+Production Support & Operations
+Provide L2/L3 technical support for AML transaction-monitoring and customer-risk platforms.
+Monitor batch cycles, data feeds, alerts, cases, interfaces, application services, and database jobs.
+Investigate production incidents, perform root-cause analysis, implement corrective actions, and maintain incident documentation.
+Support daily AML operations while ensuring availability, data completeness, SLA adherence, and controlled issue resolution."
